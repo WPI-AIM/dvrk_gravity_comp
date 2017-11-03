@@ -1,0 +1,106 @@
+Not searching for unused variables given on the command line.
+[36m--[0m The C compiler identification is GNU 4.8.4
+[36m--[0m The CXX compiler identification is GNU 4.8.4
+[36m--[0m Check for working C compiler: /usr/bin/cc
+[36m--[0m Check for working C compiler: /usr/bin/cc -- works
+[36m--[0m Detecting C compiler ABI info
+[36m--[0m Detecting C compiler ABI info - done
+[36m--[0m Check for working CXX compiler: /usr/bin/c++
+[36m--[0m Check for working CXX compiler: /usr/bin/c++ -- works
+[36m--[0m Detecting CXX compiler ABI info
+[36m--[0m Detecting CXX compiler ABI info - done
+[36m--[0m Performing Test CXX_SUPPORTS_WEXTRA
+[36m--[0m Performing Test CXX_SUPPORTS_WEXTRA - Success
+[36m--[0m Performing Test CXX_SUPPORTS_WALL
+[36m--[0m Performing Test CXX_SUPPORTS_WALL - Success
+[36m--[0m Assuming cisst is built using ROS/catkin since ROS_ROOT is defined in environment
+[36m--[0m Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so
+[36m--[0m Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so - found
+[36m--[0m Looking for gethostbyname
+[36m--[0m Looking for gethostbyname - found
+[36m--[0m Looking for connect
+[36m--[0m Looking for connect - found
+[36m--[0m Looking for remove
+[36m--[0m Looking for remove - found
+[36m--[0m Looking for shmat
+[36m--[0m Looking for shmat - found
+[36m--[0m Looking for IceConnectionNumber in ICE
+[36m--[0m Looking for IceConnectionNumber in ICE - found
+[36m--[0m Found X11: /usr/lib/x86_64-linux-gnu/libX11.so
+[36m--[0m Found OpenGL: /usr/lib/x86_64-linux-gnu/libGL.so
+[36m--[0m Looking for Q_WS_X11
+[36m--[0m Looking for Q_WS_X11 - found
+[36m--[0m Looking for Q_WS_WIN
+[36m--[0m Looking for Q_WS_WIN - not found
+[36m--[0m Looking for Q_WS_QWS
+[36m--[0m Looking for Q_WS_QWS - not found
+[36m--[0m Looking for Q_WS_MAC
+[36m--[0m Looking for Q_WS_MAC - not found
+[36m--[0m Found Qt4: /usr/bin/qmake-qt4 (found version "4.8.6")
+[36m--[0m Found FLTK: fltk_images;fltk_forms;fltk_gl;/usr/lib/x86_64-linux-gnu/libGL.so;fltk
+[36m--[0m Found SWIG: /usr/bin/swig2.0 (found suitable version "2.0.11", minimum required is "1.3.36")
+[36m--[0m Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython2.7.so (found version "2.7.6")
+[36m--[0m Found PythonInterp: /usr/bin/python (found version "2.7.6")
+[36m--[0m Found Numpy: /usr/lib/python2.7/dist-packages/numpy/core/include/numpy
+[36m--[0m Found LibXml2: /usr/lib/x86_64-linux-gnu/libxml2.so (found version "2.9.1")
+[36m--[0m Performing Test CXX_SUPPORTS_FPIC
+[36m--[0m Performing Test CXX_SUPPORTS_FPIC - Success
+[36m--[0m Found Subversion: /usr/bin/svn (found version "1.8.8")
+[36m--[0m Checking to see if size_t is a native type
+[36m--[0m Checking to see if size_t is a native type - no
+[36m--[0m Performing Test CISST_OSTREAM_CAN_CAST_TO_VOID_PTR
+[36m--[0m Performing Test CISST_OSTREAM_CAN_CAST_TO_VOID_PTR - Success
+[36m--[0m Performing Test CISST_OSTREAM_CAN_CAST_TO_INT
+[36m--[0m Performing Test CISST_OSTREAM_CAN_CAST_TO_INT - Failed
+[36m--[0m Looking for isfinite
+[36m--[0m Looking for isfinite - found
+[36m--[0m Looking for include file pthread.h
+[36m--[0m Looking for include file pthread.h - found
+[36m--[0m Looking for pthread_create
+[36m--[0m Looking for pthread_create - not found
+[36m--[0m Looking for pthread_create in pthreads
+[36m--[0m Looking for pthread_create in pthreads - not found
+[36m--[0m Looking for pthread_create in pthread
+[36m--[0m Looking for pthread_create in pthread - found
+[36m--[0m Found Threads: TRUE
+[36m--[0m Found SWIG: /usr/bin/swig2.0 (found version "2.0.11")
+Information: all libraries and settings have been found for /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstMultiTask/applications/cisstComponentManager, it is possible cisst-config.cmake has not been found yet,  make sure the CMake configuration is complete first.
+Information: all libraries and settings have been found for /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstMultiTask/applications/cisstLogger, it is possible cisst-config.cmake has not been found yet,  make sure the CMake configuration is complete first.
+Information: code in /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstMultiTask/applications/cisstIREComponent will not be compiled, it requires cisstInteractive.  You have to change your cisst configuration if you need these features.
+Information: code in /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstRobot/applications/cisstRandomJoints will not be compiled, it requires cisstCommon;cisstVector;cisstOSAbstraction;cisstRobot;cisstNumerical
+Information: code in /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstRobot/applications/cisstForwardKinematics will not be compiled, it requires cisstCommon;cisstVector;cisstOSAbstraction;cisstRobot;cisstNumerical
+Information: code in /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstRobot/applications/cisstKinematicsIdentification will not be compiled, it requires cisstCommon;cisstVector;cisstOSAbstraction;cisstRobot;cisstNumerical
+Information: code in /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstRobot/applications/cisstRobotSensorCalibration will not be compiled, it requires cisstCommon;cisstVector;cisstOSAbstraction;cisstRobot;cisstNumerical
+[36m--[0m Found JPEG: /usr/lib/x86_64-linux-gnu/libjpeg.so
+[36m--[0m JPEG found - Switch to advanced view for details
+OpenCV Version from 2.2.0. onwards.
+[36m--[0m Found ZLIB: /usr/lib/x86_64-linux-gnu/libz.so (found version "1.2.8")
+[36m--[0m ZLIB found - Switch to advanced view for details
+[36m--[0m Found PNG: /usr/lib/x86_64-linux-gnu/libpng.so (found version "1.2.50")
+[36m--[0m PNG found - Switch to advanced view for details
+[36m--[0m FFMPEG found - Switch to advanced view for details
+[36m--[0m DC1394 found - Switch to advanced view for details
+[36m--[0m X11 found - Switch to advanced view for details
+Information: code in /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstStereoVision/applications/cisstCameraViewer will not be compiled, it requires cisstCommon;cisstVector;cisstOSAbstraction;cisstMultiTask;cisstStereoVision
+Information: code in /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstStereoVision/applications/cisstVideoPlayer will not be compiled, it requires cisstCommon;cisstVector;cisstOSAbstraction;cisstMultiTask;cisstStereoVision
+Information: code in /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstStereoVision/applications/cisstVideoConverter will not be compiled, it requires cisstCommon;cisstVector;cisstOSAbstraction;cisstMultiTask;cisstStereoVision
+[33m[1mCMake Warning[0m at /home/davincic2/catkin_ws/src/cisst-saw/cisst/share/CMakeLists.txt:18 (find_package):
+  By not providing "Findcisst.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "cisst", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "cisst" with any of
+  the following names:
+
+    cisstConfig.cmake
+    cisst-config.cmake
+
+  Add the installation prefix of "cisst" to CMAKE_PREFIX_PATH or set
+  "cisst_DIR" to a directory containing one of the above files.  If "cisst"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+
+[36m--[0m Configuring done
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /home/davincic2/catkin_ws/build_debug/cisst

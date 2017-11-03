@@ -1,0 +1,1 @@
+/home/davincic2/catkin_ws/devel_debug/.private/optoforce_ros/share/optoforce_ros/cmake/optoforce_rosConfig-version.cmake

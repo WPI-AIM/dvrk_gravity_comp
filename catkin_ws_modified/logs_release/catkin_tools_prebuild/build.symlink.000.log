@@ -1,0 +1,8 @@
+Symlinking /home/davincic2/catkin_ws/devel_release/./setup.sh
+Symlinking /home/davincic2/catkin_ws/devel_release/./_setup_util.py
+Symlinking /home/davincic2/catkin_ws/devel_release/./setup.bash
+Symlinking /home/davincic2/catkin_ws/devel_release/./setup.zsh
+Symlinking /home/davincic2/catkin_ws/devel_release/./env.sh
+Symlinking /home/davincic2/catkin_ws/devel_release/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/davincic2/catkin_ws/devel_release/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/davincic2/catkin_ws/devel_release/lib/pkgconfig/catkin_tools_prebuild.pc

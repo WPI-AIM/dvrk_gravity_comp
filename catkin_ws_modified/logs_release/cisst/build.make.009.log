@@ -1,0 +1,40 @@
+[  1%] [  2%] [  2%] [  3%] [  5%] [  5%] Built target cisstJSONExternal
+[34m[1mGenerating /home/davincic2/catkin_ws/build_release/cisst/include/cisstBuildType.h from /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstBuildType.h.in
+[0m[34m[1mAutomoc for target cisstVectorQt
+[34m[1mGenerating /home/davincic2/catkin_ws/build_release/cisst/include/cisstRevision.h from /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstRevision.h.in
+[0m[0m[  6%] [34m[1mAutomoc for target cisstMultiTaskQt
+[0m[ 11%] Built target cisstDataGenerator
+[34m[1mAutomoc for target cisstParameterTypesQt
+[0m[34m[1mAutomoc for target cisstStereoVisionQt
+[0m-- Build type is: Release
+Build suffix is: .
+-- Found Git revision: 1.0.8
+[ 11%] Built target cisstBuildType
+[ 11%] [ 11%] Built target cisstVectorQt_automoc
+Built target cisstRevision
+[ 11%] [ 11%] Built target cisstMultiTaskQt_automoc
+Built target cisstParameterTypesQt_automoc
+[ 11%] Built target cisstStereoVisionQt_automoc
+[ 17%] Built target cisstCommon
+[ 17%] [ 18%] [ 18%] Built target _cisstCommonPython
+Built target cisstCommonQt
+Built target cisstCommonXML
+[ 22%] Built target cisstOSAbstraction
+[ 22%] [ 26%] Built target _cisstOSAbstractionPython
+Built target cisstVector
+[ 26%] Built target _cisstVectorPython
+[ 27%] Built target cisstVectorFLTK
+[ 31%] Built target cisstNumerical
+[ 32%] [ 33%] Built target cisstVectorQt
+Built target _cisstNumericalPython
+[ 37%] Built target cisstRobot
+[ 37%] Built target _cisstRobotPython
+[ 53%] Built target cisstMultiTask
+[ 53%] Built target _cisstMultiTaskPython
+[ 61%] Built target cisstParameterTypes
+[ 62%] Built target _cisstParameterTypesPython
+[ 66%] [ 66%] Built target cisstMultiTaskQt
+Built target cisstParameterTypesQt
+[ 96%] Built target cisstStereoVision
+[ 97%] Built target _cisstStereoVisionPython
+[100%] Built target cisstStereoVisionQt

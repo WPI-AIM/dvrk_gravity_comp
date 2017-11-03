@@ -1,0 +1,22 @@
+[35m[1mScanning dependencies of target sawControllers
+[35m[1mScanning dependencies of target sawControllersQt_automoc
+[0m[0m[  8%] [34m[1mAutomoc for target sawControllersQt
+[0m[ 16%] [32mBuilding CXX object CMakeFiles/sawControllers.dir/code/osaGravityCompensation.cpp.o
+[0m[34m[1mGenerating moc_mtsPIDQtWidget.cpp
+[0m[34m[1mGenerating moc_mtsTeleOperationQtWidget.cpp
+[0m[ 16%] Built target sawControllersQt_automoc
+[35m[1mScanning dependencies of target sawControllersQt
+[0m[ 25%] [32mBuilding CXX object code/Qt/CMakeFiles/sawControllersQt.dir/mtsPIDQtWidget.cpp.o
+[0m[ 33%] [32mBuilding CXX object CMakeFiles/sawControllers.dir/code/osaPDGC.cpp.o
+[0m[ 41%] [32mBuilding CXX object CMakeFiles/sawControllers.dir/code/osaPIDAntiWindup.cpp.o
+[0m[ 50%] [32mBuilding CXX object CMakeFiles/sawControllers.dir/code/mtsController.cpp.o
+[0m[ 58%] [32mBuilding CXX object CMakeFiles/sawControllers.dir/code/mtsGravityCompensation.cpp.o
+[0m[ 66%] [32mBuilding CXX object code/Qt/CMakeFiles/sawControllersQt.dir/mtsTeleOperationQtWidget.cpp.o
+[0m[ 75%] [32mBuilding CXX object CMakeFiles/sawControllers.dir/code/mtsPDGC.cpp.o
+[0m[ 83%] [32mBuilding CXX object CMakeFiles/sawControllers.dir/code/mtsPID.cpp.o
+[0m[ 91%] [32mBuilding CXX object code/Qt/CMakeFiles/sawControllersQt.dir/sawControllersQt_automoc.cpp.o
+[0m[100%] [32mBuilding CXX object CMakeFiles/sawControllers.dir/code/mtsTeleOperation.cpp.o
+[0m[31m[1mLinking CXX shared library ../../lib/libsawControllersQt.so
+[0m[100%] Built target sawControllersQt
+[31m[1mLinking CXX shared library lib/libsawControllers.so
+[0m[100%] Built target sawControllers

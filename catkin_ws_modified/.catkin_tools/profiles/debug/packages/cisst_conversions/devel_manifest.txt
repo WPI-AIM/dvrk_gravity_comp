@@ -1,0 +1,5 @@
+cisst-saw/cisst-ros/cisst_conversions
+/home/davincic2/catkin_ws/devel_debug/.private/cisst_conversions/share/cisst_conversions/cmake/cisst_conversionsConfig-version.cmake /home/davincic2/catkin_ws/devel_debug/share/cisst_conversions/cmake/cisst_conversionsConfig-version.cmake
+/home/davincic2/catkin_ws/devel_debug/.private/cisst_conversions/share/cisst_conversions/cmake/cisst_conversionsConfig.cmake /home/davincic2/catkin_ws/devel_debug/share/cisst_conversions/cmake/cisst_conversionsConfig.cmake
+/home/davincic2/catkin_ws/devel_debug/.private/cisst_conversions/lib/libcisst_conversions.so /home/davincic2/catkin_ws/devel_debug/lib/libcisst_conversions.so
+/home/davincic2/catkin_ws/devel_debug/.private/cisst_conversions/lib/pkgconfig/cisst_conversions.pc /home/davincic2/catkin_ws/devel_debug/lib/pkgconfig/cisst_conversions.pc

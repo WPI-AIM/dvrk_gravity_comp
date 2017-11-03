@@ -1,0 +1,72 @@
+[35m[1mScanning dependencies of target Amp1394
+[0m[  4%] [32mBuilding CXX object code/Amp1394/lib/CMakeFiles/Amp1394.dir/code/AmpIO.cpp.o
+[0m[  8%] [32mBuilding CXX object code/Amp1394/lib/CMakeFiles/Amp1394.dir/code/FirewirePort.cpp.o
+[0m[31m[1mLinking CXX static library ../../../lib/libAmp1394.a
+[0m[  8%] Built target Amp1394
+[35m[1mScanning dependencies of target block1394
+[0m[ 12%] [32mBuilding C object code/Amp1394/util/CMakeFiles/block1394.dir/block1394.c.o
+[0m[31m[1mLinking C executable /home/davincic2/catkin_ws/devel_debug/.private/saw_robot_io_1394/bin/block1394
+[0m[34m[1mGenerating quad1394
+[0m[ 12%] Built target block1394
+[35m[1mScanning dependencies of target info1394
+[0m[ 16%] [32mBuilding C object code/Amp1394/util/CMakeFiles/info1394.dir/info1394.c.o
+[0m[31m[1mLinking C executable /home/davincic2/catkin_ws/devel_debug/.private/saw_robot_io_1394/bin/info1394
+[0m[ 16%] Built target info1394
+[35m[1mScanning dependencies of target time1394
+[0m[ 20%] [32mBuilding C object code/Amp1394/util/CMakeFiles/time1394.dir/time1394.c.o
+[0m[31m[1mLinking C executable /home/davincic2/catkin_ws/devel_debug/.private/saw_robot_io_1394/bin/time1394
+[0m[ 20%] Built target time1394
+[35m[1mScanning dependencies of target fwPortTest
+[0m[ 25%] [32mBuilding CXX object code/Amp1394/tests/CMakeFiles/fwPortTest.dir/fwPortTest.cpp.o
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_debug/.private/saw_robot_io_1394/bin/fwPortTest
+[0m[ 25%] Built target fwPortTest
+[35m[1mScanning dependencies of target qlacloserelays
+[0m[ 29%] [32mBuilding CXX object code/Amp1394/tests/CMakeFiles/qlacloserelays.dir/qlacloserelays.cpp.o
+/home/davincic2/catkin_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/qlacloserelays.cpp: In function ‘int main(int, char**)’:
+/home/davincic2/catkin_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/qlacloserelays.cpp:47:40: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (i = 0; i < Port.GetNumOfNodes(); i++) {
+                                        ^
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_debug/.private/saw_robot_io_1394/bin/qlacloserelays
+[0m[ 29%] Built target qlacloserelays
+[35m[1mScanning dependencies of target qladisp
+[0m[ 33%] [32mBuilding CXX object code/Amp1394/tests/CMakeFiles/qladisp.dir/qladisp.cpp.o
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_debug/.private/saw_robot_io_1394/bin/qladisp
+[0m[ 33%] Built target qladisp
+[35m[1mScanning dependencies of target qlatest
+[0m[ 37%] [32mBuilding CXX object code/Amp1394/tests/CMakeFiles/qlatest.dir/qlatest.cpp.o
+/home/davincic2/catkin_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/qlatest.cpp:576:6: warning: unused parameter ‘curLine’ [-Wunused-parameter]
+ bool TestEthernet(int curLine, AmpIO &Board, FirewirePort &Port, std::ofstream &logFile)
+      ^
+/home/davincic2/catkin_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/qlatest.cpp:576:6: warning: unused parameter ‘Port’ [-Wunused-parameter]
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_debug/.private/saw_robot_io_1394/bin/qlatest
+[0m[ 37%] Built target qlatest
+[35m[1mScanning dependencies of target pgm1394
+[0m[ 41%] [32mBuilding CXX object code/Amp1394/programmer/CMakeFiles/pgm1394.dir/pgm1394.cpp.o
+[0m[ 45%] [32mBuilding CXX object code/Amp1394/programmer/CMakeFiles/pgm1394.dir/mcsFile.cpp.o
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_debug/.private/saw_robot_io_1394/bin/pgm1394
+[0m[ 45%] Built target pgm1394
+[35m[1mScanning dependencies of target sawRobotIO1394Qt_automoc
+[0m[ 50%] [34m[1mAutomoc for target sawRobotIO1394Qt
+[0m[34m[1mGenerating moc_mtsRobotIO1394QtWidget.cpp
+[0m[ 50%] Built target sawRobotIO1394Qt_automoc
+[35m[1mScanning dependencies of target sawRobotIO1394
+[0m[ 54%] [32mBuilding CXX object CMakeFiles/sawRobotIO1394.dir/code/osaRobot1394.cpp.o
+[0m[ 58%] [32mBuilding CXX object CMakeFiles/sawRobotIO1394.dir/code/osaDigitalInput1394.cpp.o
+/home/davincic2/catkin_ws/src/cisst-saw/sawRobotIO1394/components/code/osaRobot1394.cpp:1067:6: warning: unused parameter ‘bits’ [-Wunused-parameter]
+ void osaRobot1394::EncoderBitsToVelocity(const vctIntVec & bits, vctDoubleVec & vel) const
+      ^
+[0m[ 62%] [32mBuilding CXX object CMakeFiles/sawRobotIO1394.dir/code/osaDigitalOutput1394.cpp.o
+[0m[ 66%] [32mBuilding CXX object CMakeFiles/sawRobotIO1394.dir/code/osaPort1394.cpp.o
+[0m[ 70%] [32mBuilding CXX object CMakeFiles/sawRobotIO1394.dir/code/osaXML1394.cpp.o
+[0m[ 75%] [32mBuilding CXX object CMakeFiles/sawRobotIO1394.dir/code/mtsRobot1394.cpp.o
+[0m[ 79%] [32mBuilding CXX object CMakeFiles/sawRobotIO1394.dir/code/mtsDigitalInput1394.cpp.o
+[0m[ 83%] [32mBuilding CXX object CMakeFiles/sawRobotIO1394.dir/code/mtsDigitalOutput1394.cpp.o
+[0m[ 87%] [32mBuilding CXX object CMakeFiles/sawRobotIO1394.dir/code/mtsRobotIO1394.cpp.o
+[0m[31m[1mLinking CXX shared library lib/libsawRobotIO1394.so
+[0m[ 87%] Built target sawRobotIO1394
+[35m[1mScanning dependencies of target sawRobotIO1394Qt
+[0m[ 91%] [32mBuilding CXX object code/Qt/CMakeFiles/sawRobotIO1394Qt.dir/mtsRobotIO1394QtWidget.cpp.o
+[0m[ 95%] [32mBuilding CXX object code/Qt/CMakeFiles/sawRobotIO1394Qt.dir/mtsRobotIO1394QtWidgetFactory.cpp.o
+[0m[100%] [32mBuilding CXX object code/Qt/CMakeFiles/sawRobotIO1394Qt.dir/sawRobotIO1394Qt_automoc.cpp.o
+[0m[31m[1mLinking CXX shared library ../../lib/libsawRobotIO1394Qt.so
+[0m[100%] Built target sawRobotIO1394Qt

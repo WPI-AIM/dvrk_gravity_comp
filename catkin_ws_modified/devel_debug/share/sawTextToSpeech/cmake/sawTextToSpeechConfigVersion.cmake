@@ -1,0 +1,1 @@
+/home/davincic2/catkin_ws/devel_debug/.private/saw_text_to_speech/share/sawTextToSpeech/cmake/sawTextToSpeechConfigVersion.cmake

@@ -1,0 +1,8 @@
+prefix=/home/davincic2/catkin_ws/devel_release/.private/dvrk_model
+
+Name: dvrk_model
+Description: Description of dvrk_model
+Version: 1.1.0
+Cflags: 
+Libs: -L/home/davincic2/catkin_ws/devel_release/.private/dvrk_model/lib 
+Requires: 

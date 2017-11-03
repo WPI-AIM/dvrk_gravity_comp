@@ -1,0 +1,13 @@
+(cl:defpackage cisst_msgs-msg
+  (:use )
+  (:export
+   "<STRINGSTAMPED>"
+   "STRINGSTAMPED"
+   "<VCTDOUBLEVEC>"
+   "VCTDOUBLEVEC"
+   "<PRMFIXTUREGAINCARTESIANSET>"
+   "PRMFIXTUREGAINCARTESIANSET"
+   "<BOOLSTAMPED>"
+   "BOOLSTAMPED"
+  ))
+

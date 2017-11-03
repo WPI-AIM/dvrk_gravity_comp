@@ -1,0 +1,12 @@
+/home/davincic2/catkin_ws/build_debug/saw_robot_io_1394/code/Amp1394/lib/CMakeFiles/Amp1394.dir
+/home/davincic2/catkin_ws/build_debug/saw_robot_io_1394/code/Amp1394/util/CMakeFiles/block1394.dir
+/home/davincic2/catkin_ws/build_debug/saw_robot_io_1394/code/Amp1394/tests/CMakeFiles/fwPortTest.dir
+/home/davincic2/catkin_ws/build_debug/saw_robot_io_1394/code/Amp1394/util/CMakeFiles/info1394.dir
+/home/davincic2/catkin_ws/build_debug/saw_robot_io_1394/code/Amp1394/programmer/CMakeFiles/pgm1394.dir
+/home/davincic2/catkin_ws/build_debug/saw_robot_io_1394/code/Amp1394/tests/CMakeFiles/qlacloserelays.dir
+/home/davincic2/catkin_ws/build_debug/saw_robot_io_1394/code/Amp1394/tests/CMakeFiles/qladisp.dir
+/home/davincic2/catkin_ws/build_debug/saw_robot_io_1394/code/Amp1394/tests/CMakeFiles/qlatest.dir
+/home/davincic2/catkin_ws/build_debug/saw_robot_io_1394/CMakeFiles/sawRobotIO1394.dir
+/home/davincic2/catkin_ws/build_debug/saw_robot_io_1394/code/Qt/CMakeFiles/sawRobotIO1394Qt.dir
+/home/davincic2/catkin_ws/build_debug/saw_robot_io_1394/code/Qt/CMakeFiles/sawRobotIO1394Qt_automoc.dir
+/home/davincic2/catkin_ws/build_debug/saw_robot_io_1394/code/Amp1394/util/CMakeFiles/time1394.dir

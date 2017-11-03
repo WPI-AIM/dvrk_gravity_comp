@@ -1,0 +1,4 @@
+Symlinking /home/davincic2/catkin_ws/devel_release/share/dvrk_python/cmake/dvrk_pythonConfig.cmake
+Symlinking /home/davincic2/catkin_ws/devel_release/share/dvrk_python/cmake/dvrk_pythonConfig-version.cmake
+Symlinking /home/davincic2/catkin_ws/devel_release/lib/pkgconfig/dvrk_python.pc
+Symlinking /home/davincic2/catkin_ws/devel_release/lib/python2.7/dist-packages/dvrk/__init__.py

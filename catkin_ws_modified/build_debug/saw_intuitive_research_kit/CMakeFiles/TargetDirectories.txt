@@ -1,0 +1,3 @@
+/home/davincic2/catkin_ws/build_debug/saw_intuitive_research_kit/CMakeFiles/sawIntuitiveResearchKit.dir
+/home/davincic2/catkin_ws/build_debug/saw_intuitive_research_kit/code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir
+/home/davincic2/catkin_ws/build_debug/saw_intuitive_research_kit/code/Qt/CMakeFiles/sawIntuitiveResearchKitQt_automoc.dir

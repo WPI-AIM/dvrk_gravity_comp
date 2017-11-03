@@ -1,0 +1,1 @@
+/home/davincic2/catkin_ws/devel_release/.private/cisst_msgs/share/cisst_msgs/cmake/cisst_msgs-msg-paths.cmake

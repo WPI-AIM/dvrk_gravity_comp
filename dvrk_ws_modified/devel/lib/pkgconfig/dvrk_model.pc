@@ -1,0 +1,8 @@
+prefix=/home/davincic2/dvrk_ws/devel
+
+Name: dvrk_model
+Description: Description of dvrk_model
+Version: 1.1.0
+Cflags: 
+Libs: -L/home/davincic2/dvrk_ws/devel/lib 
+Requires: 

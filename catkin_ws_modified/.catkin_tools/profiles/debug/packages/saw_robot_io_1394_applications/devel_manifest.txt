@@ -1,0 +1,4 @@
+cisst-saw/sawRobotIO1394/applications
+/home/davincic2/catkin_ws/devel_debug/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394CurrentCalibration /home/davincic2/catkin_ws/devel_debug/bin/sawRobotIO1394CurrentCalibration
+/home/davincic2/catkin_ws/devel_debug/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394QtDataPlot /home/davincic2/catkin_ws/devel_debug/bin/sawRobotIO1394QtDataPlot
+/home/davincic2/catkin_ws/devel_debug/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394QtConsole /home/davincic2/catkin_ws/devel_debug/bin/sawRobotIO1394QtConsole

@@ -1,0 +1,11 @@
+Symlinking /home/davincic2/catkin_ws/devel_debug/share/sawRobotIO1394/cmake/sawRobotIO1394ConfigVersion.cmake
+Symlinking /home/davincic2/catkin_ws/devel_debug/share/sawRobotIO1394/cmake/sawRobotIO1394Config.cmake
+Symlinking /home/davincic2/catkin_ws/devel_debug/bin/time1394
+Symlinking /home/davincic2/catkin_ws/devel_debug/bin/quad1394
+Symlinking /home/davincic2/catkin_ws/devel_debug/bin/info1394
+Symlinking /home/davincic2/catkin_ws/devel_debug/bin/block1394
+Symlinking /home/davincic2/catkin_ws/devel_debug/bin/qlatest
+Symlinking /home/davincic2/catkin_ws/devel_debug/bin/qladisp
+Symlinking /home/davincic2/catkin_ws/devel_debug/bin/fwPortTest
+Symlinking /home/davincic2/catkin_ws/devel_debug/bin/qlacloserelays
+Symlinking /home/davincic2/catkin_ws/devel_debug/bin/pgm1394

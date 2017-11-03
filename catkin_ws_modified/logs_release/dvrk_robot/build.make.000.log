@@ -1,0 +1,34 @@
+[ 11%] [34m[1mcisstDataGenerator for dvrk_topics_version
+[0mcisstDataGenerator: generating /home/davincic2/catkin_ws/devel_release/.private/dvrk_robot/include/dvrk_utilities/dvrk_topics_version.h and /home/davincic2/catkin_ws/build_release/dvrk_robot/dvrk_topics_version_cdg.cpp from /home/davincic2/catkin_ws/src/dvrk-ros/dvrk_robot/src/dvrk_topics_version.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/davincic2/catkin_ws/devel_release/.private/dvrk_robot/include/dvrk_utilities/dvrk_topics_version.h"
+cisstDataGenerator: generating code file "/home/davincic2/catkin_ws/build_release/dvrk_robot/dvrk_topics_version_cdg.cpp"
+[35m[1mScanning dependencies of target dvrk_utilities
+[0m[ 33%] [ 33%] [ 44%] [32mBuilding CXX object CMakeFiles/dvrk_utilities.dir/dvrk_topics_version_cdg.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/dvrk_utilities.dir/src/dvrk_console.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/dvrk_utilities.dir/src/dvrk_add_topics_functions.cpp.o
+[0m[31m[1mLinking CXX shared library /home/davincic2/catkin_ws/devel_release/.private/dvrk_robot/lib/libdvrk_utilities.so
+[0m[ 44%] Built target dvrk_utilities
+[35m[1mScanning dependencies of target dvrk_full_ros
+[35m[1mScanning dependencies of target dvrk_console_json
+[35m[1mScanning dependencies of target dvrk_ecm_ros
+[35m[1mScanning dependencies of target dvrk_mtm_ros
+[35m[1mScanning dependencies of target dvrk_psm_ros
+[0m[ 55%] [32mBuilding CXX object CMakeFiles/dvrk_console_json.dir/src/dvrk_console_json.cpp.o
+[0m[0m[0m[0m[0m[ 66%] [ 77%] [32mBuilding CXX object CMakeFiles/dvrk_full_ros.dir/src/dvrk_full_ros.cpp.o
+[0m[ 88%] [32mBuilding CXX object CMakeFiles/dvrk_ecm_ros.dir/src/dvrk_ecm_ros.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/dvrk_mtm_ros.dir/src/dvrk_mtm_ros.cpp.o
+[0m[100%] [32mBuilding CXX object CMakeFiles/dvrk_psm_ros.dir/src/dvrk_psm_ros.cpp.o
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_release/.private/dvrk_robot/lib/dvrk_robot/dvrk_console_json
+/home/davincic2/catkin_ws/src/dvrk-ros/dvrk_robot/src/dvrk_full_ros.cpp:53:6: warning: unused parameter ‘sig’ [-Wunused-parameter]
+ void mySigintHandler(int sig)
+      ^
+[0m[100%] Built target dvrk_console_json
+[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_release/.private/dvrk_robot/lib/dvrk_robot/dvrk_ecm_ros
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_release/.private/dvrk_robot/lib/dvrk_robot/dvrk_full_ros
+[0m[100%] Built target dvrk_ecm_ros
+[100%] Built target dvrk_full_ros
+[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_release/.private/dvrk_robot/lib/dvrk_robot/dvrk_mtm_ros
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_release/.private/dvrk_robot/lib/dvrk_robot/dvrk_psm_ros
+[0m[100%] Built target dvrk_mtm_ros
+[100%] Built target dvrk_psm_ros

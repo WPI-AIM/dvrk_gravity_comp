@@ -1,0 +1,16 @@
+[35m[1mScanning dependencies of target sawIntuitiveResearchKitQtPID
+[35m[1mScanning dependencies of target sawIntuitiveResearchKitGripperCalibration
+[35m[1mScanning dependencies of target sawIntuitiveResearchKitQtConsoleJSON
+[35m[1mScanning dependencies of target sawIntuitiveResearchKitQtArm
+[0m[ 25%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKitGripperCalibration.dir/GripperCalibration.cpp.o
+[0m[0m[ 50%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKitQtConsoleJSON.dir/mainQtConsoleJSON.cpp.o
+[0m[0m[0m[ 75%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKitQtPID.dir/mainQtPID.cpp.o
+[0m[100%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKitQtArm.dir/mainQtArm.cpp.o
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_debug/.private/saw_intuitive_research_kit_applications/bin/sawIntuitiveResearchKitGripperCalibration
+[0m[100%] Built target sawIntuitiveResearchKitGripperCalibration
+[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_debug/.private/saw_intuitive_research_kit_applications/bin/sawIntuitiveResearchKitQtConsoleJSON
+[0m[100%] Built target sawIntuitiveResearchKitQtConsoleJSON
+[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_debug/.private/saw_intuitive_research_kit_applications/bin/sawIntuitiveResearchKitQtPID
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_debug/.private/saw_intuitive_research_kit_applications/bin/sawIntuitiveResearchKitQtArm
+[0m[100%] Built target sawIntuitiveResearchKitQtPID
+[100%] Built target sawIntuitiveResearchKitQtArm

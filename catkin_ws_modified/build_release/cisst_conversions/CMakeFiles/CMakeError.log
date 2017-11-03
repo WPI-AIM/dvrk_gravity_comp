@@ -1,0 +1,53 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/davincic2/catkin_ws/build_release/cisst_conversions/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2004834164/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2004834164.dir/build.make CMakeFiles/cmTryCompileExec2004834164.dir/build
+make[1]: Entering directory `/home/davincic2/catkin_ws/build_release/cisst_conversions/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/davincic2/catkin_ws/build_release/cisst_conversions/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2004834164.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec2004834164.dir/CheckSymbolExists.c.o   -c /home/davincic2/catkin_ws/build_release/cisst_conversions/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec2004834164
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2004834164.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec2004834164.dir/CheckSymbolExists.c.o  -o cmTryCompileExec2004834164 -rdynamic 
+CMakeFiles/cmTryCompileExec2004834164.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x16): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTryCompileExec2004834164] Error 1
+make[1]: Leaving directory `/home/davincic2/catkin_ws/build_release/cisst_conversions/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec2004834164/fast] Error 2
+
+File /home/davincic2/catkin_ws/build_release/cisst_conversions/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/davincic2/catkin_ws/build_release/cisst_conversions/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec885517728/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec885517728.dir/build.make CMakeFiles/cmTryCompileExec885517728.dir/build
+make[1]: Entering directory `/home/davincic2/catkin_ws/build_release/cisst_conversions/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/davincic2/catkin_ws/build_release/cisst_conversions/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec885517728.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTryCompileExec885517728.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec885517728
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec885517728.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTryCompileExec885517728.dir/CheckFunctionExists.c.o  -o cmTryCompileExec885517728 -rdynamic -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+make[1]: Leaving directory `/home/davincic2/catkin_ws/build_release/cisst_conversions/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec885517728] Error 1
+make: *** [cmTryCompileExec885517728/fast] Error 2
+
+

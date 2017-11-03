@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/davincic2/catkin_ws/devel_release/.private/dvrk_config/setup.sh

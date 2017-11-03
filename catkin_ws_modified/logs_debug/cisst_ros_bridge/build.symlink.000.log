@@ -1,0 +1,5 @@
+Symlinking /home/davincic2/catkin_ws/devel_debug/share/cisst_ros_bridge/cmake/cisst_ros_bridgeConfig-version.cmake
+Symlinking /home/davincic2/catkin_ws/devel_debug/share/cisst_ros_bridge/cmake/cisst_ros_bridgeConfig.cmake
+Symlinking /home/davincic2/catkin_ws/devel_debug/lib/libcisst_ros_bridge.so
+Symlinking /home/davincic2/catkin_ws/devel_debug/lib/pkgconfig/cisst_ros_bridge.pc
+Symlinking /home/davincic2/catkin_ws/devel_debug/lib/cisst_ros_bridge/example_bridge

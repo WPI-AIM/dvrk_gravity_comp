@@ -1,0 +1,18 @@
+blacklist: []
+build_space: build_release
+catkin_make_args: []
+cmake_args:
+- -DCMAKE_BUILD_TYPE=Release
+devel_layout: linked
+devel_space: devel_release
+extend_path: null
+install: false
+install_space: install_release
+isolate_install: false
+jobs_args: []
+log_space: logs_release
+make_args: []
+source_space: src
+use_env_cache: false
+use_internal_make_jobserver: true
+whitelist: []

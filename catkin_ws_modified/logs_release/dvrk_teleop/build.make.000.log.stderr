@@ -1,0 +1,3 @@
+/home/davincic2/catkin_ws/src/dvrk-ros/deprecated/dvrk_teleop/src/dvrkTeleopQWidget.cpp:16:1: warning: unused parameter ‘name’ [-Wunused-parameter]
+ dvrkTeleopQWidget::dvrkTeleopQWidget(const std::string &name, const double &period):
+ ^

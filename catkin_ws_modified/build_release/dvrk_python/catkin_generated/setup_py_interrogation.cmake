@@ -1,0 +1,6 @@
+set(dvrk_python_SETUP_PY_VERSION "1.4.0")
+set(dvrk_python_SETUP_PY_SCRIPTS "")
+set(dvrk_python_SETUP_PY_PACKAGES "dvrk")
+set(dvrk_python_SETUP_PY_PACKAGE_DIRS "src/dvrk")
+set(dvrk_python_SETUP_PY_MODULES "")
+set(dvrk_python_SETUP_PY_MODULE_DIRS "")

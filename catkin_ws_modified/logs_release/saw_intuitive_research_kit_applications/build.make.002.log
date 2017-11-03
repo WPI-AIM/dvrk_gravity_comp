@@ -1,0 +1,8 @@
+[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_release/.private/saw_intuitive_research_kit_applications/bin/sawIntuitiveResearchKitGripperCalibration
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_release/.private/saw_intuitive_research_kit_applications/bin/sawIntuitiveResearchKitQtConsoleJSON
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_release/.private/saw_intuitive_research_kit_applications/bin/sawIntuitiveResearchKitQtPID
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_release/.private/saw_intuitive_research_kit_applications/bin/sawIntuitiveResearchKitQtArm
+[0m[ 25%] Built target sawIntuitiveResearchKitGripperCalibration
+[ 50%] Built target sawIntuitiveResearchKitQtConsoleJSON
+[ 75%] Built target sawIntuitiveResearchKitQtArm
+[100%] Built target sawIntuitiveResearchKitQtPID

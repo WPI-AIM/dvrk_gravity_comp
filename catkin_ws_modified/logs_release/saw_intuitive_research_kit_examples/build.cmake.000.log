@@ -1,0 +1,19 @@
+Not searching for unused variables given on the command line.
+[36m--[0m The C compiler identification is GNU 4.8.4
+[36m--[0m The CXX compiler identification is GNU 4.8.4
+[36m--[0m Check for working C compiler: /usr/bin/cc
+[36m--[0m Check for working C compiler: /usr/bin/cc -- works
+[36m--[0m Detecting C compiler ABI info
+[36m--[0m Detecting C compiler ABI info - done
+[36m--[0m Check for working CXX compiler: /usr/bin/c++
+[36m--[0m Check for working CXX compiler: /usr/bin/c++ -- works
+[36m--[0m Detecting CXX compiler ABI info
+[36m--[0m Detecting CXX compiler ABI info - done
+[36m--[0m Performing Test CXX_SUPPORTS_WEXTRA
+[36m--[0m Performing Test CXX_SUPPORTS_WEXTRA - Success
+[36m--[0m Performing Test CXX_SUPPORTS_WALL
+[36m--[0m Performing Test CXX_SUPPORTS_WALL - Success
+[36m--[0m Assuming cisst is built using ROS/catkin since ROS_ROOT is defined in environment
+[36m--[0m Configuring done
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /home/davincic2/catkin_ws/build_release/saw_intuitive_research_kit_examples

@@ -1,0 +1,4 @@
+/home/davincic2/catkin_ws/src/cisst-saw/sawOptoforceSensor/ros/src/optoforce_json.cpp: In function ‘int main(int, char**)’:
+/home/davincic2/catkin_ws/src/cisst-saw/sawOptoforceSensor/ros/src/optoforce_json.cpp:122:25: warning: ‘tabWidget’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+         tabWidget->show();
+                         ^

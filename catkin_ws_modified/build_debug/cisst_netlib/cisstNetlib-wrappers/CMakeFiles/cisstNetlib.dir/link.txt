@@ -1,0 +1,2 @@
+/usr/bin/ar cr libcisstNetlib.a  CMakeFiles/cisstNetlib.dir/cisstNetlib-lapack.c.o CMakeFiles/cisstNetlib.dir/cisstNetlib-hanson-haskell.c.o CMakeFiles/cisstNetlib.dir/cisstNetlib-lawson-hanson.c.o
+/usr/bin/ranlib libcisstNetlib.a

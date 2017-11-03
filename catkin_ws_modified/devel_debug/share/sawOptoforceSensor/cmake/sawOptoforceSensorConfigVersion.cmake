@@ -1,0 +1,1 @@
+/home/davincic2/catkin_ws/devel_debug/.private/saw_optoforce_sensor/share/sawOptoforceSensor/cmake/sawOptoforceSensorConfigVersion.cmake

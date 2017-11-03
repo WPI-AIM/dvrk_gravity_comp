@@ -1,0 +1,8 @@
+/home/davincic2/catkin_ws/build_release/dvrk_config/CMakeFiles/_catkin_empty_exported_target.dir
+/home/davincic2/catkin_ws/build_release/dvrk_config/CMakeFiles/clean_test_results.dir
+/home/davincic2/catkin_ws/build_release/dvrk_config/CMakeFiles/download_extra_data.dir
+/home/davincic2/catkin_ws/build_release/dvrk_config/CMakeFiles/doxygen.dir
+/home/davincic2/catkin_ws/build_release/dvrk_config/gtest/CMakeFiles/gtest.dir
+/home/davincic2/catkin_ws/build_release/dvrk_config/gtest/CMakeFiles/gtest_main.dir
+/home/davincic2/catkin_ws/build_release/dvrk_config/CMakeFiles/run_tests.dir
+/home/davincic2/catkin_ws/build_release/dvrk_config/CMakeFiles/tests.dir

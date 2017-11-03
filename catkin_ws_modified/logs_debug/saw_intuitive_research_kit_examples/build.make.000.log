@@ -1,0 +1,18 @@
+[35m[1mScanning dependencies of target sawIntuitiveResearchKitQtHaptics
+[35m[1mScanning dependencies of target sawIntuitiveResearchKitQtTeleOperation
+[ 16%] [34m[1mQt Wrapped File
+[0m[35m[1mScanning dependencies of target sawIntuitiveResearchKitQtTeleOperationJSON
+[35m[1mScanning dependencies of target sawIntuitiveResearchKitQtUDPServer
+[0m[0m[ 33%] [0m[ 50%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKitQtTeleOperation.dir/mainQtTeleOperation.cpp.o
+[32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKitQtHaptics.dir/mainQtHaptics.cpp.o
+[0m[0m[0m[ 66%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKitQtTeleOperationJSON.dir/mainQtTeleOperationJSON.cpp.o
+[0m[ 83%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKitQtUDPServer.dir/mainQtUDPServer.cpp.o
+[0m[100%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKitQtUDPServer.dir/moc_mainQtUDPServer.cxx.o
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_debug/.private/saw_intuitive_research_kit_examples/bin/sawIntuitiveResearchKitQtHaptics
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_debug/.private/saw_intuitive_research_kit_examples/bin/sawIntuitiveResearchKitQtTeleOperationJSON
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_debug/.private/saw_intuitive_research_kit_examples/bin/sawIntuitiveResearchKitQtTeleOperation
+[0m[100%] Built target sawIntuitiveResearchKitQtHaptics
+[100%] Built target sawIntuitiveResearchKitQtTeleOperation
+[100%] Built target sawIntuitiveResearchKitQtTeleOperationJSON
+[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_debug/.private/saw_intuitive_research_kit_examples/bin/sawIntuitiveResearchKitQtUDPServer
+[0m[100%] Built target sawIntuitiveResearchKitQtUDPServer

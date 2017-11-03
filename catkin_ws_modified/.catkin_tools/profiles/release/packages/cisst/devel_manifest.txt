@@ -1,0 +1,6 @@
+cisst-saw/cisst
+/home/davincic2/catkin_ws/devel_release/.private/cisst/cisstvars.csh /home/davincic2/catkin_ws/devel_release/./cisstvars.csh
+/home/davincic2/catkin_ws/devel_release/.private/cisst/cisstvars.sh /home/davincic2/catkin_ws/devel_release/./cisstvars.sh
+/home/davincic2/catkin_ws/devel_release/.private/cisst/bin/cisstDataGenerator /home/davincic2/catkin_ws/devel_release/bin/cisstDataGenerator
+/home/davincic2/catkin_ws/devel_release/.private/cisst/cmake/cisst-config.cmake /home/davincic2/catkin_ws/devel_release/cmake/cisst-config.cmake
+/home/davincic2/catkin_ws/devel_release/.private/cisst/cmake/cisst-config-version.cmake /home/davincic2/catkin_ws/devel_release/cmake/cisst-config-version.cmake

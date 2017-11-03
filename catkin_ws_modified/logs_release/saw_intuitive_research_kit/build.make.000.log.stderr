@@ -1,0 +1,6 @@
+/home/davincic2/catkin_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitOptimizer.cpp:81:6: warning: unused parameter ‘desiredKinName’ [-Wunused-parameter]
+ void mtsIntuitiveResearchKitOptimizer::InitializePlaneVF(size_t rows,
+      ^
+/home/davincic2/catkin_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitConsole.cpp:1548:6: warning: unused parameter ‘button’ [-Wunused-parameter]
+ void mtsIntuitiveResearchKitConsole::ECMManipClutchEventHandler(const prmEventButton & button)
+      ^

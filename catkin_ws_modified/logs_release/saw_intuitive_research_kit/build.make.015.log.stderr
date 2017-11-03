@@ -1,0 +1,3 @@
+/home/davincic2/catkin_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitArm.cpp:885:6: warning: unused parameter ‘effort’ [-Wunused-parameter]
+ void mtsIntuitiveResearchKitArm::SetJointEffort(const prmForceTorqueJointSet & effort)
+      ^

@@ -1,0 +1,41 @@
+n = 20;
+sub_tor = rossubscriber('/my_tor_node2');
+sub_pos = rossubscriber('/dvrk_mtm/joint_position_current');
+pub_pos = rospublisher('/dvrk_mtm/set_position_joint', 'sensor_msgs/JointState');
+data = zeros(8,2,n);
+%qs = rand(8,n);
+qs = zeros(8,10);
+q_max = [.79 .79 .79 4.28 3.14 .79 4.71 0];
+q_min = [-1.31 -.79 -.79 -1.05 -1.57 -.79 -4.71 0];
+q_mids = q_min+(q_max-q_min)/2
+q_dis = [(q_max(1)-q_min(1))/4 , (q_max(2)-q_min(2))/4 , (q_max(3)-q_min(3))/4 ,(q_max(4)-q_min(4))/2 , (q_max(5)-q_min(5))/2 , (q_max(6)-q_min(6))/2 , (q_max(7)-q_min(7))/2 , (q_max(8)-q_min(8))/2]
+
+
+qs(:,1) = q_mids - q_dis
+qs(:,2) = q_mids + q_dis
+qs(:,3) = [q_mids(1)-q_dis(1),q_mids(2)-q_dis(2),q_mids(3)-q_dis(3)]
+qs(:,1) = q_mids - q_dis
+qs(:,1) = q_mids - q_dis
+qs(:,1) = q_mids - q_dis
+qs(:,1) = q_mids - q_dis
+qs(:,1) = q_mids - q_dis
+qs(:,1) = q_mids - q_dis
+qs(:,1) = q_mids - q_dis
+
+%{
+for i = 1:8
+    if i<4
+        qs(i, :) = (qs(i, :)-.5)*(q_max(i)-q_min(i))/3 + (q_max(i) + q_min(i))/2;
+    else
+        qs(i, :) = (qs(i, :)-.5)*(q_max(i)-q_min(i)) + (q_max(i) + q_min(i))/2;
+    end
+    
+end
+%}
+for i = 1:n
+    Set_Position(pub_pos, qs(:,i));
+    pause(5);
+    data(:,1,i) = Get_Position(sub_pos);
+    data(:,2,i) = Get_Torque(sub_tor);
+    pause(1);
+end

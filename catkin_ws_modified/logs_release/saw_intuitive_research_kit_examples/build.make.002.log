@@ -1,0 +1,8 @@
+[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_release/.private/saw_intuitive_research_kit_examples/bin/sawIntuitiveResearchKitQtHaptics
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_release/.private/saw_intuitive_research_kit_examples/bin/sawIntuitiveResearchKitQtTeleOperation
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_release/.private/saw_intuitive_research_kit_examples/bin/sawIntuitiveResearchKitQtTeleOperationJSON
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_release/.private/saw_intuitive_research_kit_examples/bin/sawIntuitiveResearchKitQtUDPServer
+[0m[ 50%] Built target sawIntuitiveResearchKitQtUDPServer
+[ 66%] Built target sawIntuitiveResearchKitQtHaptics
+[ 83%] Built target sawIntuitiveResearchKitQtTeleOperation
+[100%] Built target sawIntuitiveResearchKitQtTeleOperationJSON

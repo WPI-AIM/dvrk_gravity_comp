@@ -1,0 +1,18 @@
+[35m[1mScanning dependencies of target sawRobotIO1394QtConsole
+[0m[ 16%] [32mBuilding CXX object Qt/CMakeFiles/sawRobotIO1394QtConsole.dir/mainQt.cpp.o
+[0m[35m[1mScanning dependencies of target sawRobotIO1394CurrentCalibration
+[0m[ 33%] [32mBuilding CXX object current-calibration/CMakeFiles/sawRobotIO1394CurrentCalibration.dir/main.cpp.o
+[0m[35m[1mScanning dependencies of target sawRobotIO1394QtDataPlot_automoc
+[0m[ 50%] [34m[1mAutomoc for target sawRobotIO1394QtDataPlot
+[0m[34m[1mGenerating moc_plotObject.cpp
+[0m[ 50%] Built target sawRobotIO1394QtDataPlot_automoc
+[35m[1mScanning dependencies of target sawRobotIO1394QtDataPlot
+[0m[ 66%] [32mBuilding CXX object data-plot/CMakeFiles/sawRobotIO1394QtDataPlot.dir/main.cpp.o
+[0m[ 83%] [32mBuilding CXX object data-plot/CMakeFiles/sawRobotIO1394QtDataPlot.dir/plotObject.cpp.o
+[0m[100%] [32mBuilding CXX object data-plot/CMakeFiles/sawRobotIO1394QtDataPlot.dir/sawRobotIO1394QtDataPlot_automoc.cpp.o
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_debug/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394CurrentCalibration
+[0m[100%] Built target sawRobotIO1394CurrentCalibration
+[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_debug/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394QtConsole
+[0m[100%] Built target sawRobotIO1394QtConsole
+[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_debug/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394QtDataPlot
+[0m[100%] Built target sawRobotIO1394QtDataPlot

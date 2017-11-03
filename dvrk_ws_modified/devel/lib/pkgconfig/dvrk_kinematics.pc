@@ -1,0 +1,8 @@
+prefix=/home/davincic2/dvrk_ws/devel
+
+Name: dvrk_kinematics
+Description: Description of dvrk_kinematics
+Version: 1.1.0
+Cflags: -I/home/davincic2/dvrk_ws/src/dvrk-ros/deprecated/dvrk_kinematics/include
+Libs: -L/home/davincic2/dvrk_ws/devel/lib 
+Requires: cisst_ros_bridge geometry_msgs roscpp sensor_msgs std_msgs

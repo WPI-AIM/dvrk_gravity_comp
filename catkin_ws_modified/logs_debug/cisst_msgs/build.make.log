@@ -1,0 +1,41 @@
+[35m[1mScanning dependencies of target _cisst_msgs_generate_messages_check_deps_BoolStamped
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp
+[0m[0m[35m[1mScanning dependencies of target _cisst_msgs_generate_messages_check_deps_vctDoubleVec
+[0m[35m[1mScanning dependencies of target _cisst_msgs_generate_messages_check_deps_prmFixtureGainCartesianSet
+[0m[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py
+[0m[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp
+[0m[35m[1mScanning dependencies of target _cisst_msgs_generate_messages_check_deps_StringStamped
+[0m[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] [  0%] [35m[1mScanning dependencies of target std_msgs_generate_messages_py
+Built target geometry_msgs_generate_messages_py
+[0mBuilt target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp
+[0m[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp
+[0m[  0%] Built target _cisst_msgs_generate_messages_check_deps_BoolStamped
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target _cisst_msgs_generate_messages_check_deps_prmFixtureGainCartesianSet
+[  0%] Built target _cisst_msgs_generate_messages_check_deps_vctDoubleVec
+[  0%] Built target _cisst_msgs_generate_messages_check_deps_StringStamped
+[35m[1mScanning dependencies of target cisst_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target cisst_msgs_generate_messages_py
+[35m[1mScanning dependencies of target cisst_msgs_generate_messages_cpp
+[0m[0m[0m[  7%] [ 30%] [ 30%] [ 30%] [ 38%] [ 46%] [ 53%] [34m[1mGenerating Python from MSG cisst_msgs/vctDoubleVec
+[0m[34m[1mGenerating Lisp code from cisst_msgs/vctDoubleVec.msg
+[0m[34m[1mGenerating Python from MSG cisst_msgs/prmFixtureGainCartesianSet
+[34m[1mGenerating C++ code from cisst_msgs/vctDoubleVec.msg
+[0m[0m[34m[1mGenerating Lisp code from cisst_msgs/StringStamped.msg
+[0m[34m[1mGenerating Lisp code from cisst_msgs/prmFixtureGainCartesianSet.msg
+[0m[34m[1mGenerating Python from MSG cisst_msgs/StringStamped
+[0m[ 61%] [34m[1mGenerating Python from MSG cisst_msgs/BoolStamped
+[0m[ 69%] [ 76%] [ 92%] [ 92%] [34m[1mGenerating C++ code from cisst_msgs/prmFixtureGainCartesianSet.msg
+[0m[34m[1mGenerating Lisp code from cisst_msgs/BoolStamped.msg
+[0m[34m[1mGenerating C++ code from cisst_msgs/StringStamped.msg
+[0m[34m[1mGenerating C++ code from cisst_msgs/BoolStamped.msg
+[0m[100%] [34m[1mGenerating Python msg __init__.py for cisst_msgs
+[0m[100%] Built target cisst_msgs_generate_messages_lisp
+[100%] Built target cisst_msgs_generate_messages_py
+[100%] Built target cisst_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target cisst_msgs_generate_messages
+[0m[100%] Built target cisst_msgs_generate_messages

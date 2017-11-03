@@ -1,0 +1,1 @@
+/home/davincic2/catkin_ws/devel_release/.private/dvrk_config/lib/pkgconfig/dvrk_config.pc

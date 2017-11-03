@@ -1,0 +1,3 @@
+cisst-saw/sawOptoforceSensor/components
+/home/davincic2/catkin_ws/devel_release/.private/saw_optoforce_sensor/share/sawOptoforceSensor/cmake/sawOptoforceSensorConfigVersion.cmake /home/davincic2/catkin_ws/devel_release/share/sawOptoforceSensor/cmake/sawOptoforceSensorConfigVersion.cmake
+/home/davincic2/catkin_ws/devel_release/.private/saw_optoforce_sensor/share/sawOptoforceSensor/cmake/sawOptoforceSensorConfig.cmake /home/davincic2/catkin_ws/devel_release/share/sawOptoforceSensor/cmake/sawOptoforceSensorConfig.cmake

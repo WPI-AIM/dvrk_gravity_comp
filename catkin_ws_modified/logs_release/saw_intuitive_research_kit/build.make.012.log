@@ -1,0 +1,14 @@
+[  3%] [34m[1mAutomoc for target sawIntuitiveResearchKitQt
+[0m[35m[1mScanning dependencies of target sawIntuitiveResearchKit
+[  3%] Built target sawIntuitiveResearchKitQt_automoc
+[0m[  7%] [ 11%] [ 14%] [ 18%] [ 22%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitMTM.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitArm.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitECM.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitPSM.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitConsole.cpp.o
+[0m[ 55%] Built target sawIntuitiveResearchKitQt
+/home/davincic2/catkin_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitConsole.cpp:1548:6: warning: unused parameter ‘button’ [-Wunused-parameter]
+ void mtsIntuitiveResearchKitConsole::ECMManipClutchEventHandler(const prmEventButton & button)
+      ^
+[31m[1mLinking CXX shared library lib/libsawIntuitiveResearchKit.so
+[0m[100%] Built target sawIntuitiveResearchKit

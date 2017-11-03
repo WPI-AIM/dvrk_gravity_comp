@@ -1,0 +1,5 @@
+Symlinking /home/davincic2/catkin_ws/devel_debug/./cisstvars.csh
+Symlinking /home/davincic2/catkin_ws/devel_debug/./cisstvars.sh
+Symlinking /home/davincic2/catkin_ws/devel_debug/bin/cisstDataGenerator
+Symlinking /home/davincic2/catkin_ws/devel_debug/cmake/cisst-config.cmake
+Symlinking /home/davincic2/catkin_ws/devel_debug/cmake/cisst-config-version.cmake

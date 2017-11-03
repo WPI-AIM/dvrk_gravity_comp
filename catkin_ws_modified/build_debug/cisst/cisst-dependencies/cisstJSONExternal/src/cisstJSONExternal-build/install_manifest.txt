@@ -1,0 +1,12 @@
+/home/davincic2/catkin_ws/build_debug/cisst/cisstJSON/lib/pkgconfig/jsoncpp.pc
+/home/davincic2/catkin_ws/build_debug/cisst/cisstJSON/lib/libjsoncpp.a
+/home/davincic2/catkin_ws/build_debug/cisst/cisstJSON/include/json/version.h
+/home/davincic2/catkin_ws/build_debug/cisst/cisstJSON/include/json/assertions.h
+/home/davincic2/catkin_ws/build_debug/cisst/cisstJSON/include/json/features.h
+/home/davincic2/catkin_ws/build_debug/cisst/cisstJSON/include/json/value.h
+/home/davincic2/catkin_ws/build_debug/cisst/cisstJSON/include/json/autolink.h
+/home/davincic2/catkin_ws/build_debug/cisst/cisstJSON/include/json/reader.h
+/home/davincic2/catkin_ws/build_debug/cisst/cisstJSON/include/json/json.h
+/home/davincic2/catkin_ws/build_debug/cisst/cisstJSON/include/json/writer.h
+/home/davincic2/catkin_ws/build_debug/cisst/cisstJSON/include/json/config.h
+/home/davincic2/catkin_ws/build_debug/cisst/cisstJSON/include/json/forwards.h

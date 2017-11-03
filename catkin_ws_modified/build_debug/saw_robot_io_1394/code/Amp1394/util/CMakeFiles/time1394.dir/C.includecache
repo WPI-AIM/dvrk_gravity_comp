@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/davincic2/catkin_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/util/time1394.c
+stdlib.h
+-
+stdio.h
+-
+signal.h
+-
+libraw1394/raw1394.h
+-
+sys/time.h
+-
+

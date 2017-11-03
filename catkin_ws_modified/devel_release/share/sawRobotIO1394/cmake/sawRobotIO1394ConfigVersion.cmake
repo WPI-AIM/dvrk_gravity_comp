@@ -1,0 +1,1 @@
+/home/davincic2/catkin_ws/devel_release/.private/saw_robot_io_1394/share/sawRobotIO1394/cmake/sawRobotIO1394ConfigVersion.cmake

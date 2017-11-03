@@ -1,0 +1,3 @@
+/home/davincic2/catkin_ws/build_release/saw_controllers/CMakeFiles/sawControllers.dir
+/home/davincic2/catkin_ws/build_release/saw_controllers/code/Qt/CMakeFiles/sawControllersQt.dir
+/home/davincic2/catkin_ws/build_release/saw_controllers/code/Qt/CMakeFiles/sawControllersQt_automoc.dir

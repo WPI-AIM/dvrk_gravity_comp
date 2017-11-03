@@ -1,0 +1,8 @@
+prefix=/home/davincic2/catkin_ws/install_debug
+
+Name: dvrk_config
+Description: Description of dvrk_config
+Version: 1.0.3
+Cflags: 
+Libs: -L/home/davincic2/catkin_ws/install_debug/lib 
+Requires: 

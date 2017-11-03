@@ -1,0 +1,1 @@
+/home/davincic2/catkin_ws/devel_release/.private/cisst/cmake/cisst-config.cmake

@@ -1,0 +1,6 @@
+dvrk-ros/deprecated/dvrk_kinematics
+/home/davincic2/catkin_ws/devel_release/.private/dvrk_kinematics/share/dvrk_kinematics/cmake/dvrk_kinematicsConfig.cmake /home/davincic2/catkin_ws/devel_release/share/dvrk_kinematics/cmake/dvrk_kinematicsConfig.cmake
+/home/davincic2/catkin_ws/devel_release/.private/dvrk_kinematics/share/dvrk_kinematics/cmake/dvrk_kinematicsConfig-version.cmake /home/davincic2/catkin_ws/devel_release/share/dvrk_kinematics/cmake/dvrk_kinematicsConfig-version.cmake
+/home/davincic2/catkin_ws/devel_release/.private/dvrk_kinematics/lib/dvrk_kinematics/dvrk_mtm_logic /home/davincic2/catkin_ws/devel_release/lib/dvrk_kinematics/dvrk_mtm_logic
+/home/davincic2/catkin_ws/devel_release/.private/dvrk_kinematics/lib/dvrk_kinematics/dvrk_psm_logic /home/davincic2/catkin_ws/devel_release/lib/dvrk_kinematics/dvrk_psm_logic
+/home/davincic2/catkin_ws/devel_release/.private/dvrk_kinematics/lib/pkgconfig/dvrk_kinematics.pc /home/davincic2/catkin_ws/devel_release/lib/pkgconfig/dvrk_kinematics.pc

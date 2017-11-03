@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target sawTextToSpeechExampleKeyboard
+[0m[100%] [32mBuilding CXX object keyboard/CMakeFiles/sawTextToSpeechExampleKeyboard.dir/main.cpp.o
+[0m[31m[1mLinking CXX executable sawTextToSpeechExampleKeyboard
+[0m[100%] Built target sawTextToSpeechExampleKeyboard

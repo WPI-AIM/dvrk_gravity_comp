@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target mtsGCExample
+[0m[ 33%] [32mBuilding CXX object CMakeFiles/mtsGCExample.dir/mtsGCExample.cpp.o
+[0m[35m[1mScanning dependencies of target osaGCExample
+[0m[ 66%] [32mBuilding CXX object CMakeFiles/osaGCExample.dir/osaGCExample.cpp.o
+[0m[35m[1mScanning dependencies of target osaPDGCExample
+[0m[100%] [32mBuilding CXX object CMakeFiles/osaPDGCExample.dir/osaPDGCExample.cpp.o
+[0m[31m[1mLinking CXX executable osaGCExample
+[0m[100%] Built target osaGCExample
+[31m[1mLinking CXX executable osaPDGCExample
+[0m[31m[1mLinking CXX executable mtsGCExample
+[0m[100%] Built target osaPDGCExample
+[100%] Built target mtsGCExample

@@ -1,0 +1,10 @@
+Symlinking /home/davincic2/catkin_ws/devel_release/share/dvrk_robot/cmake/dvrk_robotConfig-version.cmake
+Symlinking /home/davincic2/catkin_ws/devel_release/share/dvrk_robot/cmake/dvrk_robotConfig.cmake
+Symlinking /home/davincic2/catkin_ws/devel_release/include/dvrk_utilities/dvrk_topics_version.h
+Symlinking /home/davincic2/catkin_ws/devel_release/lib/libdvrk_utilities.so
+Symlinking /home/davincic2/catkin_ws/devel_release/lib/pkgconfig/dvrk_robot.pc
+Symlinking /home/davincic2/catkin_ws/devel_release/lib/dvrk_robot/dvrk_ecm_ros
+Symlinking /home/davincic2/catkin_ws/devel_release/lib/dvrk_robot/dvrk_full_ros
+Symlinking /home/davincic2/catkin_ws/devel_release/lib/dvrk_robot/dvrk_psm_ros
+Symlinking /home/davincic2/catkin_ws/devel_release/lib/dvrk_robot/dvrk_console_json
+Symlinking /home/davincic2/catkin_ws/devel_release/lib/dvrk_robot/dvrk_mtm_ros

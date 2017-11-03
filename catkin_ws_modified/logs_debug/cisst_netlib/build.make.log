@@ -1,0 +1,1671 @@
+[35m[1mScanning dependencies of target cisstNetlib_Fortran
+[0m[  2%] [34m[1mCreating directories for 'cisstNetlib_Fortran'
+[0m[  4%] [34m[1mPerforming download step (download, verify and extract) for 'cisstNetlib_Fortran'
+[0m-- downloading...
+     src='http://www.netlib.org/lapack/lapack-3.5.0.tgz'
+     dst='/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/lapack-3.5.0.tgz'
+     timeout='none'
+-- [download 0% complete]
+-- [download 1% complete]
+-- [download 2% complete]
+-- [download 3% complete]
+-- [download 4% complete]
+-- [download 5% complete]
+-- [download 6% complete]
+-- [download 7% complete]
+-- [download 8% complete]
+-- [download 9% complete]
+-- [download 10% complete]
+-- [download 11% complete]
+-- [download 12% complete]
+-- [download 13% complete]
+-- [download 14% complete]
+-- [download 15% complete]
+-- [download 16% complete]
+-- [download 17% complete]
+-- [download 18% complete]
+-- [download 19% complete]
+-- [download 20% complete]
+-- [download 21% complete]
+-- [download 22% complete]
+-- [download 23% complete]
+-- [download 24% complete]
+-- [download 25% complete]
+-- [download 26% complete]
+-- [download 27% complete]
+-- [download 28% complete]
+-- [download 29% complete]
+-- [download 30% complete]
+-- [download 31% complete]
+-- [download 32% complete]
+-- [download 33% complete]
+-- [download 34% complete]
+-- [download 35% complete]
+-- [download 36% complete]
+-- [download 37% complete]
+-- [download 38% complete]
+-- [download 39% complete]
+-- [download 40% complete]
+-- [download 41% complete]
+-- [download 42% complete]
+-- [download 43% complete]
+-- [download 44% complete]
+-- [download 45% complete]
+-- [download 46% complete]
+-- [download 47% complete]
+-- [download 48% complete]
+-- [download 49% complete]
+-- [download 50% complete]
+-- [download 51% complete]
+-- [download 52% complete]
+-- [download 53% complete]
+-- [download 54% complete]
+-- [download 55% complete]
+-- [download 56% complete]
+-- [download 57% complete]
+-- [download 58% complete]
+-- [download 59% complete]
+-- [download 60% complete]
+-- [download 61% complete]
+-- [download 62% complete]
+-- [download 63% complete]
+-- [download 64% complete]
+-- [download 65% complete]
+-- [download 66% complete]
+-- [download 67% complete]
+-- [download 68% complete]
+-- [download 69% complete]
+-- [download 70% complete]
+-- [download 71% complete]
+-- [download 72% complete]
+-- [download 73% complete]
+-- [download 74% complete]
+-- [download 75% complete]
+-- [download 76% complete]
+-- [download 77% complete]
+-- [download 78% complete]
+-- [download 79% complete]
+-- [download 80% complete]
+-- [download 81% complete]
+-- [download 82% complete]
+-- [download 83% complete]
+-- [download 84% complete]
+-- [download 85% complete]
+-- [download 86% complete]
+-- [download 87% complete]
+-- [download 88% complete]
+-- [download 89% complete]
+-- [download 90% complete]
+-- [download 91% complete]
+-- [download 92% complete]
+-- [download 93% complete]
+-- [download 94% complete]
+-- [download 95% complete]
+-- [download 96% complete]
+-- [download 97% complete]
+-- [download 98% complete]
+-- [download 99% complete]
+-- [download 100% complete]
+-- downloading... done
+-- verifying file...
+     file='/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/lapack-3.5.0.tgz'
+-- verifying file... done
+-- extracting...
+     src='/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/lapack-3.5.0.tgz'
+     dst='/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran'
+-- extracting... [tar xfz]
+-- extracting... [analysis]
+-- extracting... [rename]
+-- extracting... [clean up]
+-- extracting... done
+[  6%] [  9%] [34m[1mNo patch step for 'cisstNetlib_Fortran'
+[34m[1mNo update step for 'cisstNetlib_Fortran'
+[0m[0m[ 11%] [34m[1mPerforming configure step for 'cisstNetlib_Fortran'
+loading initial cache file /home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/tmp/cisstNetlib_Fortran-cache.cmake
+[0m-- The Fortran compiler identification is GNU
+-- Check for working Fortran compiler: /usr/bin/f95
+-- Check for working Fortran compiler: /usr/bin/f95  -- works
+-- Detecting Fortran compiler ABI info
+-- Detecting Fortran compiler ABI info - done
+-- Checking whether /usr/bin/f95 supports Fortran 90
+-- Checking whether /usr/bin/f95 supports Fortran 90 -- yes
+-- Found PythonInterp: /usr/bin/python (found version "2.7.6") 
+-- Looking for Python found - TRUE
+-- Using Python version 2.7.6
+-- Reducing RELEASE optimization level to O2
+-- Looking for Fortran NONE - found
+-- Looking for Fortran INT_CPU_TIME - found
+-- Looking for Fortran EXT_ETIME - not found
+-- Looking for Fortran EXT_ETIME_ - not found
+-- Looking for Fortran INT_ETIME - found
+-- --> Will use second_INT_ETIME.f and dsecnd_INT_ETIME.f as timing function.
+-- Using supplied NETLIB BLAS implementation
+-- Using supplied NETLIB LAPACK implementation
+-- Building Double Precision
+-- BUILD TESTING : ON
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build
+[ 13%] [34m[1mPerforming build step for 'cisstNetlib_Fortran'
+[0m[35m[1mScanning dependencies of target blas
+[0m[  0%] [  0%] [  0%] [  0%] [  0%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/saxpy.f.o
+[0m[  0%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/scopy.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/sasum.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/isamax.f.o
+[0m[  0%] [  0%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/sdot.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/snrm2.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/srot.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/srotg.f.o
+[0m[  1%] [  1%] [  1%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/sscal.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/sswap.f.o
+[0m[  1%] [  1%] [  1%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/srotm.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/srotmg.f.o
+[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/sdsdot.f.o
+[0m[0m[  1%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/sgemv.f.o
+[0m[  1%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/sgbmv.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ssymv.f.o
+[0m[  1%] [  2%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ssbmv.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/sspmv.f.o
+[0m[  2%] [  2%] [  2%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/stbmv.f.o
+[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/strmv.f.o
+[0m[0m[  2%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/stpmv.f.o
+[0m[  2%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/strsv.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/stbsv.f.o
+[0m[  2%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/stpsv.f.o
+[0m[  2%] [  2%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ssyr.f.o
+[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/sger.f.o
+[0m[0m[  3%] [  3%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/sspr.f.o
+[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ssyr2.f.o
+[0m[0m[  3%] [  3%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/sspr2.f.o
+[0m[  3%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/sgemm.f.o
+[0m[  3%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ssymm.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ssyrk.f.o
+[0m[  3%] [  3%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ssyr2k.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/strmm.f.o
+[0m[  4%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/strsm.f.o
+[0m[  4%] [  4%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/idamax.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dasum.f.o
+[0m[  4%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/daxpy.f.o
+[0m[  4%] [  4%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dcopy.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ddot.f.o
+[0m[  4%] [  4%] [  4%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dnrm2.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/drot.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/drotg.f.o
+[0m[  5%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dscal.f.o
+[0m[  5%] [  5%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dswap.f.o
+[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dsdot.f.o
+[0m[0m[  5%] [  5%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/drotmg.f.o
+[  5%] [0m[  5%] [  5%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dgemv.f.o
+[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dgbmv.f.o
+[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/drotm.f.o
+[0m[0m[0m[  5%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dsymv.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dsbmv.f.o
+[0m[  6%] [  6%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dspmv.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dtrmv.f.o
+[0m[  6%] [  6%] [  6%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dtpmv.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dtbmv.f.o
+[0m[  6%] [  6%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dtrsv.f.o
+[0m[  6%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dtpsv.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dtbsv.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dger.f.o
+[0m[  6%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dsyr.f.o
+[0m[  7%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dspr.f.o
+[0m[  7%] [  7%] [  7%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dsyr2.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dspr2.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dgemm.f.o
+[0m[  7%] [  7%] [  7%] [  7%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dsymm.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dsyrk.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dsyr2k.f.o
+[0m[  8%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dtrmm.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dtrsm.f.o
+[0m[  8%] [  8%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/scabs1.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/scasum.f.o
+[0m[  8%] [  8%] [  8%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/scnrm2.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/icamax.f.o
+[0m[  8%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/caxpy.f.o
+[0m[  8%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ccopy.f.o
+[0m[  9%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/cdotc.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/csscal.f.o
+[0m[  9%] [  8%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/cdotu.f.o
+[0m[  9%] [  9%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/crotg.f.o
+[0m[  9%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/cswap.f.o
+[0m[  9%] [  9%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/cscal.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/csrot.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/cgemv.f.o
+[0m[  9%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/cgbmv.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/chemv.f.o
+[0m[  9%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/chbmv.f.o
+[ 10%] [0m[ 10%] [ 10%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/chpmv.f.o
+[0m[ 10%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ctrmv.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ctpmv.f.o
+[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ctbmv.f.o
+[0m[0m[ 10%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ctrsv.f.o
+[0m[ 10%] [ 10%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ctbsv.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ctpsv.f.o
+[0m[ 10%] [ 11%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/cgerc.f.o
+[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/cgeru.f.o
+[0m[0m[ 11%] [ 11%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/cher.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/chpr.f.o
+[0m[ 11%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/cher2.f.o
+[0m[ 11%] [ 11%] [ 11%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/cgemm.f.o
+[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/chpr2.f.o
+[0m[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/csymm.f.o
+[0m[ 11%] [ 11%] [ 11%] [ 12%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/csyrk.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ctrmm.f.o
+[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ctrsm.f.o
+[0m[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/csyr2k.f.o
+[0m[ 12%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/chemm.f.o
+[0m[ 12%] [ 12%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/cherk.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/cher2k.f.o
+[0m[ 12%] [ 12%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dcabs1.f.o
+[0m[ 12%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dzasum.f.o
+[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/dznrm2.f.o
+[0m[0m[ 12%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/izamax.f.o
+[0m[ 13%] [ 13%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zaxpy.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zcopy.f.o
+[0m[ 13%] [ 13%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zdotc.f.o
+[0m[ 13%] [ 13%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zdotu.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zdscal.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zrotg.f.o
+[0m[ 13%] [ 13%] [ 13%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zscal.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zswap.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zdrot.f.o
+[0m[ 14%] [ 14%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zgbmv.f.o
+[0m[ 14%] [ 14%] [ 14%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zgemv.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zhpmv.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zhemv.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zhbmv.f.o
+[0m[ 14%] [ 14%] [ 14%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ztbmv.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ztrmv.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ztpmv.f.o
+[0m[ 15%] [ 15%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ztbsv.f.o
+[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ztrsv.f.o
+[0m[0m[ 15%] [ 15%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ztpsv.f.o
+[0m[ 15%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zgerc.f.o
+[0m[ 15%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zgeru.f.o
+[0m[ 15%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zher.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zhpr.f.o
+[0m[ 15%] [ 15%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zher2.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zhpr2.f.o
+[0m[ 16%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zgemm.f.o
+[0m[ 16%] [ 16%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zsymm.f.o
+[0m[ 16%] [ 16%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zsyrk.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zsyr2k.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ztrmm.f.o
+[0m[ 16%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/ztrsm.f.o
+[0m[ 16%] [ 16%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zhemm.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zherk.f.o
+[0m[ 16%] [ 17%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/zher2k.f.o
+[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/lsame.f.o
+[0m[0m[ 17%] [ 17%] [32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/xerbla.f.o
+[0m[32mBuilding Fortran object BLAS/SRC/CMakeFiles/blas.dir/xerbla_array.f.o
+[0m[31m[1mLinking Fortran static library ../../lib/libblas.a
+[0m[ 17%] Built target blas
+[35m[1mScanning dependencies of target lapack
+[0m[ 17%] [ 17%] [ 17%] [ 17%] [ 17%] [ 18%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgbequ.f.o
+[0m[ 18%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgbcon.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgbsvx.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgbrfs.f.o
+[0m[ 18%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgbsv.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgbbrd.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgbtf2.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgbtrf.f.o
+[0m[ 18%] [ 18%] [ 18%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgbtrs.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgebak.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgebal.f.o
+[ 18%] [0m[ 18%] [ 18%] [ 19%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgebd2.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgebrd.f.o
+[0m[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgecon.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgeequ.f.o
+[0m[ 19%] [ 19%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgees.f.o
+[0m[ 19%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgeesx.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgeev.f.o
+[0m[ 19%] [ 19%] [ 19%] [ 19%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgeevx.f.o
+[0m[ 19%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgegs.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgegv.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgehd2.f.o
+[0m[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgehrd.f.o
+[0m[ 20%] [ 20%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgelq2.f.o
+[ 20%] [0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgelqf.f.o
+[0m[ 20%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgels.f.o
+[0m[ 20%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgelsd.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgelss.f.o
+[0m[ 20%] [ 20%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgelsx.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgelsy.f.o
+[0m[ 20%] [ 20%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgeql2.f.o
+[0m[ 21%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgeqlf.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgeqp3.f.o
+[0m[ 21%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgeqpf.f.o
+[0m[ 21%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgeqr2.f.o
+[0m[ 21%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgeqr2p.f.o
+[ 21%] [0m[ 21%] [ 21%] [ 21%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgeqrf.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgeqrfp.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgerfs.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgerq2.f.o
+[0m[ 22%] [ 22%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgerqf.f.o
+[0m[ 22%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgesc2.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgesdd.f.o
+[ 22%] [0m[ 22%] [ 22%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgesv.f.o
+[0m[ 22%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgesvd.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgesvx.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgetc2.f.o
+[ 22%] [0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgetf2.f.o
+[0m[ 22%] [ 23%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgetrf.f.o
+[0m[ 23%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgetri.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgetrs.f.o
+[0m[0m[ 23%] [ 23%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dggbak.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dggbal.f.o
+[0m[0m[ 23%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgges.f.o
+[ 23%] [0m[ 23%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dggesx.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dggev.f.o
+[0m[ 23%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dggevx.f.o
+[0m[ 23%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dggglm.f.o
+[0m[ 24%] [ 24%] [ 24%] [ 24%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgghrd.f.o
+[ 24%] [0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dggqrf.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgglse.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dggrqf.f.o
+[0m[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dggsvd.f.o
+[0m[ 24%] [ 24%] [ 24%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dggsvp.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgtcon.f.o
+[0m[ 25%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgtrfs.f.o
+[0m[ 25%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgtsv.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgtsvx.f.o
+[0m[ 25%] [ 25%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgttrf.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgttrs.f.o
+[0m[ 25%] [ 25%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgtts2.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dhgeqz.f.o
+[0m[ 25%] [ 25%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dhsein.f.o
+[0m[ 25%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dhseqr.f.o
+[ 26%] [0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlabrd.f.o
+[0m[ 26%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlacon.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlacn2.f.o
+[0m[ 26%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaein.f.o
+[0m[ 26%] [ 26%] [ 26%] [ 26%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaexc.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlag2.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlagtm.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlags2.f.o
+[0m[ 26%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlagv2.f.o
+[0m[ 27%] [ 27%] [ 27%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlahrd.f.o
+[ 27%] [0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlahqr.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaic1.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlahr2.f.o
+[0m[0m[ 27%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaln2.f.o
+[0m[ 27%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlals0.f.o
+[0m[ 27%] [ 27%] [ 27%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlalsa.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlalsd.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlangb.f.o
+[0m[ 27%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlange.f.o
+[0m[ 28%] [ 28%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlangt.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlanhs.f.o
+[0m[ 28%] [ 28%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlansp.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlansb.f.o
+[0m[ 28%] [ 28%] [ 28%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlantb.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlansy.f.o
+[0m[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlantp.f.o
+[0m[ 28%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlantr.f.o
+[0m[ 29%] [ 29%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlapll.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlanv2.f.o
+[0m[0m[ 29%] [ 29%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlapmt.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaqgb.f.o
+[0m[ 29%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaqge.f.o
+[0m[ 29%] [ 29%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaqp2.f.o
+[0m[ 29%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaqps.f.o
+[0m[ 29%] [ 30%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaqsp.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaqsb.f.o
+[0m[0m[ 30%] [ 30%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaqsy.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaqr0.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaqr1.f.o
+[0m[ 30%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaqr2.f.o
+[0m[ 30%] [ 30%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaqr3.f.o
+[0m[ 30%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaqr4.f.o
+[0m[ 30%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaqr5.f.o
+[0m[ 30%] [ 31%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaqtr.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlar1v.f.o
+[0m[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlar2v.f.o
+[0m[ 31%] [ 31%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/iladlr.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/iladlc.f.o
+[0m[ 31%] [ 31%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlarf.f.o
+[0m[ 31%] [ 31%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlarfb.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlarfgp.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlarfg.f.o
+[0m[ 31%] [ 31%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlarft.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlarfx.f.o
+[0m[ 32%] [ 32%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlargv.f.o
+[0m[ 32%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlarrv.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlartv.f.o
+[0m[ 32%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlarz.f.o
+[0m[ 32%] [ 32%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlarzb.f.o
+[0m[ 32%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlarzt.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaswp.f.o
+[0m[ 33%] [ 33%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasyf.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasy2.f.o
+[0m[ 33%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasyf_rook.f.o
+[0m[ 33%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlatbs.f.o
+[0m[ 33%] [ 33%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlatdf.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlatps.f.o
+[0m[ 33%] [ 33%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlatrd.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlatrs.f.o
+[0m[ 33%] [ 33%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlatzm.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlatrz.f.o
+[0m[0m[ 34%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlauu2.f.o
+[0m[ 34%] [ 34%] [ 34%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlauum.f.o
+[0m[ 34%] [ 34%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dopmtr.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dopgtr.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorg2l.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorg2r.f.o
+[0m[ 34%] [ 34%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorghr.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorgbr.f.o
+[0m[0m[ 34%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorgl2.f.o
+[0m[ 35%] [ 35%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorglq.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorgql.f.o
+[ 35%] [0m[ 35%] [ 35%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorgqr.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorgr2.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorgrq.f.o
+[0m[ 35%] [ 35%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorm2l.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorgtr.f.o
+[0m[ 35%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorm2r.f.o
+[0m[ 36%] [ 36%] [ 36%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dormbr.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dormhr.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorml2.f.o
+[0m[ 36%] [ 36%] [ 36%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dormlq.f.o
+[0m[ 36%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dormqr.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dormql.f.o
+[0m[0m[ 36%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dormr2.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dormr3.f.o
+[0m[ 37%] [ 37%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dormrz.f.o
+[0m[ 37%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dormrq.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dormtr.f.o
+[0m[ 37%] [ 37%] [ 37%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpbcon.f.o
+[0m[ 37%] [ 37%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpbsv.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpbrfs.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpbstf.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpbequ.f.o
+[0m[ 37%] [ 37%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpbsvx.f.o
+[0m[ 38%] [ 38%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpbtf2.f.o
+[0m[ 38%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpbtrf.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpbtrs.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpocon.f.o
+[0m[ 38%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpoequ.f.o
+[0m[ 38%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dporfs.f.o
+[0m[ 38%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dposv.f.o
+[0m[ 38%] [ 38%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dposvx.f.o
+[0m[ 38%] [ 39%] [ 39%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpotf2.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpotrf.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpotri.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpotrs.f.o
+[0m[ 39%] [ 39%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpstrf.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpstf2.f.o
+[0m[ 39%] [ 39%] [ 39%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dppcon.f.o
+[0m[ 39%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpprfs.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dppequ.f.o
+[0m[0m[ 40%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dppsv.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dppsvx.f.o
+[0m[ 40%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpptrf.f.o
+[0m[ 40%] [ 40%] [ 40%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpptri.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpptrs.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dptcon.f.o
+[0m[ 40%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpteqr.f.o
+[ 40%] [0m[ 40%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dptrfs.f.o
+[ 41%] [0m[ 41%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpttrs.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dptsvx.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dptsv.f.o
+[0m[ 41%] [ 41%] [ 41%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/drscl.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsbev.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dptts2.f.o
+[0m[ 41%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsbevd.f.o
+[0m[ 41%] [ 41%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsbevx.f.o
+[0m[ 41%] [ 41%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsbgv.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsbgst.f.o
+[0m[0m[ 42%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsbgvd.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsbgvx.f.o
+[0m[ 42%] [ 42%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsbtrd.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dspcon.f.o
+[0m[ 42%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dspev.f.o
+[0m[ 42%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dspevd.f.o
+[0m[ 42%] [ 42%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dspevx.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dspgst.f.o
+[ 42%] [0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dspgv.f.o
+[0m[ 43%] [ 43%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dspgvd.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dspgvx.f.o
+[0m[ 43%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsprfs.f.o
+[0m[ 43%] [ 43%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dspsv.f.o
+[0m[ 43%] [ 43%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dspsvx.f.o
+[0m[ 43%] [ 43%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsptrd.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsptri.f.o
+[0m[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsptrf.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsptrs.f.o
+[0m[ 44%] [ 44%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dstegr.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dstein.f.o
+[0m[ 44%] [ 44%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dstev.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dstevd.f.o
+[0m[ 44%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dstevr.f.o
+[0m[ 44%] [ 44%] [ 44%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dstevx.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsyev.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsycon.f.o
+[0m[ 45%] [ 45%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsyevr.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsyevd.f.o
+[0m[ 45%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsyevx.f.o
+[0m[ 45%] [ 45%] [ 45%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsygs2.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsygst.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsygv.f.o
+[0m[0m[ 45%] [ 45%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsygvx.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsygvd.f.o
+[0m[0m[ 45%] [ 45%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsyrfs.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsysv.f.o
+[0m[ 46%] [ 46%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsysvx.f.o
+[0m[ 46%] [ 46%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsytd2.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsytf2.f.o
+[0m[ 46%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsytrd.f.o
+[0m[ 46%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsytrf.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsytri.f.o
+[ 46%] [0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsytrs.f.o
+[0m[ 46%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsytrs2.f.o
+[0m[ 46%] [ 46%] [ 47%] [ 47%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsytri2x.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsytri2.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsyswapr.f.o
+[0m[0m[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsyconv.f.o
+[0m[ 47%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsytf2_rook.f.o
+[0m[ 47%] [ 47%] [ 47%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsytrs_rook.f.o
+[0m[ 47%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsytri_rook.f.o
+[0m[ 48%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsytrf_rook.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsycon_rook.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsysv_rook.f.o
+[0m[ 48%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtbcon.f.o
+[0m[ 48%] [ 48%] [ 48%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtgevc.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtbtrs.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtbrfs.f.o
+[0m[ 48%] [ 48%] [ 48%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtgex2.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtgexc.f.o
+[ 48%] [0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtgsen.f.o
+[0m[ 49%] [ 49%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtgsja.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtgsna.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtgsy2.f.o
+[0m[ 49%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtgsyl.f.o
+[0m[ 49%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtpcon.f.o
+[0m[ 49%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtprfs.f.o
+[0m[ 49%] [ 49%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtptrs.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtptri.f.o
+[0m[ 49%] [ 50%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtrevc.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtrcon.f.o
+[0m[ 50%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtrexc.f.o
+[0m[ 50%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtrrfs.f.o
+[0m[ 50%] [ 50%] [ 50%] [ 50%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtrsen.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtrsyl.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtrsna.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtrti2.f.o
+[0m[ 50%] [ 50%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtrtri.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtrtrs.f.o
+[ 51%] [0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtzrqf.f.o
+[0m[ 51%] [ 51%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtzrzf.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dstemr.f.o
+[0m[ 51%] [ 51%] [ 51%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsgesv.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsposv.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlag2s.f.o
+[0m[0m[ 51%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/slag2d.f.o
+[0m[ 51%] [ 51%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlat2s.f.o
+[0m[ 52%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlansf.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpftrf.f.o
+[0m[ 52%] [ 52%] [ 52%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpftri.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsfrk.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpftrs.f.o
+[0m[ 52%] [ 52%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtfsm.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtftri.f.o
+[0m[ 52%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtfttp.f.o
+[ 52%] [0m[ 52%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtfttr.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtpttf.f.o
+[0m[ 52%] [ 53%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtrttf.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtpttr.f.o
+[0m[ 53%] [ 53%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtrttp.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgejsv.f.o
+[0m[ 53%] [ 53%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgesvj.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgsvj0.f.o
+[0m[ 53%] [ 53%] [0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgsvj1.f.o
+[0m[ 54%] [ 54%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsyequb.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgeequb.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpoequb.f.o
+[0m[ 54%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgbequb.f.o
+[0m[ 54%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dbbcsd.f.o
+[0m[ 54%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlapmr.f.o
+[0m[ 54%] [ 54%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorbdb1.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorbdb.f.o
+[0m[0m[ 54%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorbdb2.f.o
+[ 54%] [0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorbdb3.f.o
+[0m[ 55%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorbdb4.f.o
+[0m[ 55%] [ 55%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorbdb5.f.o
+[ 55%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorbdb6.f.o
+[0m[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorcsd.f.o
+[0m[ 55%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dorcsd2by1.f.o
+[0m[ 55%] [ 55%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgeqrt2.f.o
+[ 55%] [0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgeqrt.f.o
+[0m[ 55%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgeqrt3.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dgemqrt.f.o
+[0m[ 56%] [ 56%] [ 56%] [ 56%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtpqrt.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtprfb.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtpqrt2.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dtpmqrt.f.o
+[0m[ 56%] [ 56%] [ 56%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/ilaenv.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/lsamen.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/ieeeck.f.o
+[0m[0m[ 56%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/iparmq.f.o
+[ 56%] [0m[ 57%] [ 57%] [ 57%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/ilatrans.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/ilaprec.f.o
+[0m[0m[ 57%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/iladiag.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/ilauplo.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/chla_transtype.f.o
+[0m[ 57%] [ 57%] [ 57%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/__/INSTALL/lsame.f.o
+[0m[ 57%] [ 58%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/__/INSTALL/ilaver.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/xerbla.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/xerbla_array.f.o
+[0m[ 58%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/__/INSTALL/slamch.f.o
+[0m[ 58%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dbdsdc.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dbdsqr.f.o
+[0m[ 58%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/ddisna.f.o
+[0m[ 58%] [ 58%] [ 58%] [ 58%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlacpy.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlae2.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dladiv.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlabad.f.o
+[0m[0m[0m[ 58%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaebz.f.o
+[0m[ 58%] [ 59%] [ 59%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaed1.f.o
+[ 59%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaed0.f.o
+[0m[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaed2.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaed3.f.o
+[0m[0m[ 59%] [ 59%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaed5.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaed4.f.o
+[0m[ 59%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaed6.f.o
+[0m[ 59%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaed7.f.o
+[ 60%] [ 60%] [0m[ 60%] [ 60%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaed8.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaed9.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaeda.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaev2.f.o
+[0m[ 60%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlagtf.f.o
+[0m[ 60%] [ 60%] [ 60%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlagts.f.o
+[ 60%] [0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlamrg.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlanst.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlapy2.f.o
+[0m[ 61%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlapy3.f.o
+[0m[ 61%] [ 61%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlarnv.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlarra.f.o
+[0m[ 61%] [ 61%] [ 61%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlarrb.f.o
+[0m[ 61%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlarrc.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlarrd.f.o
+[0m[ 61%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlarre.f.o
+[0m[ 61%] [0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlarrf.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlarrj.f.o
+[0m[ 62%] [ 62%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlarrr.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlarrk.f.o
+[0m[ 62%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaneg.f.o
+[0m[ 62%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlartg.f.o
+[0m[ 62%] [ 62%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaruv.f.o
+[0m[ 62%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlas2.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlascl.f.o
+[0m[ 62%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasd0.f.o
+[0m[ 62%] [ 63%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasd1.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasd2.f.o
+[ 63%] [0m[0m[ 63%] [ 63%] [ 63%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasd5.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasd4.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasd3.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasd6.f.o
+[0m[ 63%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasd7.f.o
+[0m[ 63%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasd8.f.o
+[0m[ 63%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasda.f.o
+[0m[ 63%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasdq.f.o
+[0m[ 64%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasdt.f.o
+[0m[ 64%] [ 64%] [ 64%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasq1.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaset.f.o
+[0m[ 64%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasq2.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasq3.f.o
+[0m[ 64%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasq4.f.o
+[0m[ 64%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasq5.f.o
+[0m[ 64%] [ 65%] [ 65%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasq6.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasr.f.o
+[0m[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasrt.f.o
+[0m[ 65%] [ 65%] [ 65%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlassq.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlasv2.f.o
+[0m[ 65%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dpttrf.f.o
+[ 65%] [0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dstebz.f.o
+[0m[ 65%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dstedc.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsteqr.f.o
+[0m[ 65%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dsterf.f.o
+[0m[ 66%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlaisnan.f.o
+[0m[ 66%] [ 66%] [ 66%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/disnan.f.o
+[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlartgp.f.o
+[0m[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/dlartgs.f.o
+[0m[ 66%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/__/INSTALL/dlamch.f.o
+[0m[ 66%] [ 66%] [ 66%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/spotrs.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/__/INSTALL/dsecnd_INT_ETIME.f.o
+[0m[ 66%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/sgetrs.f.o
+[0m[32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/spotrf.f.o
+[0m[ 67%] [32mBuilding Fortran object SRC/CMakeFiles/lapack.dir/sgetrf.f.o
+[0m[31m[1mLinking Fortran static library ../lib/liblapack.a
+[0m[ 67%] Built target lapack
+[35m[1mScanning dependencies of target tmglib
+[0m[ 67%] [ 67%] [ 67%] [ 67%] [ 67%] [ 67%] [ 67%] [32mBuilding Fortran object TESTING/MATGEN/CMakeFiles/tmglib.dir/dlatms.f.o
+[0m[ 68%] [32mBuilding Fortran object TESTING/MATGEN/CMakeFiles/tmglib.dir/dlatme.f.o
+[0m[32mBuilding Fortran object TESTING/MATGEN/CMakeFiles/tmglib.dir/dlagge.f.o
+[0m[32mBuilding Fortran object TESTING/MATGEN/CMakeFiles/tmglib.dir/dlakf2.f.o
+[0m[32mBuilding Fortran object TESTING/MATGEN/CMakeFiles/tmglib.dir/dlatmt.f.o
+[0m[32mBuilding Fortran object TESTING/MATGEN/CMakeFiles/tmglib.dir/dlagsy.f.o
+[0m[32mBuilding Fortran object TESTING/MATGEN/CMakeFiles/tmglib.dir/dlarge.f.o
+[0m[32mBuilding Fortran object TESTING/MATGEN/CMakeFiles/tmglib.dir/dlatmr.f.o
+[0m[ 68%] [32mBuilding Fortran object TESTING/MATGEN/CMakeFiles/tmglib.dir/dlaror.f.o
+[0m[ 68%] [ 68%] [32mBuilding Fortran object TESTING/MATGEN/CMakeFiles/tmglib.dir/dlarot.f.o
+[0m[32mBuilding Fortran object TESTING/MATGEN/CMakeFiles/tmglib.dir/dlatm2.f.o
+[0m[ 68%] [ 68%] [32mBuilding Fortran object TESTING/MATGEN/CMakeFiles/tmglib.dir/dlatm3.f.o
+[0m[ 68%] [ 68%] [32mBuilding Fortran object TESTING/MATGEN/CMakeFiles/tmglib.dir/dlatm5.f.o
+[ 68%] [0m[32mBuilding Fortran object TESTING/MATGEN/CMakeFiles/tmglib.dir/dlatm6.f.o
+[0m[32mBuilding Fortran object TESTING/MATGEN/CMakeFiles/tmglib.dir/dlatm7.f.o
+[0m[32mBuilding Fortran object TESTING/MATGEN/CMakeFiles/tmglib.dir/dlahilb.f.o
+[0m[ 69%] [32mBuilding Fortran object TESTING/MATGEN/CMakeFiles/tmglib.dir/dlatm1.f.o
+[0m[ 69%] [ 69%] [32mBuilding Fortran object TESTING/MATGEN/CMakeFiles/tmglib.dir/dlaran.f.o
+[0m[32mBuilding Fortran object TESTING/MATGEN/CMakeFiles/tmglib.dir/dlarnd.f.o
+[0m[31m[1mLinking Fortran static library ../../lib/libtmglib.a
+[0m[ 69%] Built target tmglib
+[35m[1mScanning dependencies of target xlintstrfd
+[35m[1mScanning dependencies of target xeigtstd
+[35m[1mScanning dependencies of target xlintstd
+[0m[ 70%] [ 70%] [ 70%] [ 70%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstrfd.dir/ddrvrf2.f.o
+[0m[ 70%] [ 70%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstrfd.dir/dchkrfp.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstrfd.dir/ddrvrfp.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstrfd.dir/ddrvrf1.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstrfd.dir/ddrvrf3.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstrfd.dir/ddrvrf4.f.o
+[0m[0m[0m[ 70%] [ 70%] [ 70%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstrfd.dir/derrrfp.f.o
+[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dbdt01.f.o
+[0m[0m[ 70%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dchkee.f.o
+[0m[ 70%] [ 70%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dbdt02.f.o
+[ 70%] [0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/aladhd.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/alaerh.f.o
+[0m[ 70%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dbdt03.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/alaesm.f.o
+[0m[ 70%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dchkbb.f.o
+[0m[ 70%] [ 70%] [ 70%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dchkbd.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/alahd.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstrfd.dir/dlatb4.f.o
+[ 70%] [0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstrfd.dir/dlarhs.f.o
+[0m[ 70%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/alareq.f.o
+[0m[ 71%] [ 71%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dchkbk.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dchkbl.f.o
+[0m[ 71%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstrfd.dir/dget04.f.o
+[0m[ 71%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/alasum.f.o
+[0m[ 71%] [ 72%] [ 72%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/alasvm.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstrfd.dir/dpot01.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dchkec.f.o
+[0m[ 72%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dchkgg.f.o
+[ 72%] [0m[ 72%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/chkxer.f.o
+[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dchkgk.f.o
+[0m[0m[ 72%] [ 73%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/icopy.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstrfd.dir/dpot03.f.o
+[0m[ 73%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstrfd.dir/dpot02.f.o
+[0m[ 73%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/ilaenv.f.o
+[0m[ 73%] [ 73%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/xlaenv.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/xerbla.f.o
+[ 73%] [ 73%] [0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dchkgl.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstrfd.dir/chkxer.f.o
+[ 73%] [0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dchkhs.f.o
+[0m[ 73%] [ 73%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchkaa.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchkeq.f.o
+[0m[ 73%] [ 73%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstrfd.dir/xerbla.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchkgb.f.o
+[0m[ 73%] [ 73%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dchksb.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dchkst.f.o
+[0m[ 73%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstrfd.dir/alaerh.f.o
+[0m[ 74%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dckcsd.f.o
+[0m[ 75%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchkge.f.o
+[0m[ 75%] [ 75%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dckglm.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchkgt.f.o
+[0m[ 75%] [ 75%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dckgqr.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dckgsv.f.o
+[0m[ 75%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dcklse.f.o
+[0m[ 75%] [ 75%] [ 75%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchklq.f.o
+[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dcsdts.f.o
+[0m[0m[ 75%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchkpb.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/ddrges.f.o
+[0m[ 75%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/ddrgev.f.o
+[0m[ 76%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/ddrgsx.f.o
+[0m[ 76%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchkpo.f.o
+[0m[ 76%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/ddrgvx.f.o
+[0m[ 76%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchkps.f.o
+[0m[ 76%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/ddrvbd.f.o
+[0m[ 76%] [ 76%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstrfd.dir/aladhd.f.o
+[0m[ 76%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchkpp.f.o
+[0m[ 76%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstrfd.dir/alahd.f.o
+[0m[ 76%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/ddrves.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchkpt.f.o
+[0m[ 76%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/ddrvev.f.o
+[0m[ 76%] [ 77%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchkq3.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/ddrvgg.f.o
+[0m[ 77%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchkql.f.o
+[0m[ 77%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstrfd.dir/alasvm.f.o
+[0m[ 77%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/ddrvsg.f.o
+[ 77%] [0m[ 77%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchkqp.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/ddrvst.f.o
+[0m[ 78%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstrfd.dir/__/__/INSTALL/dsecnd_INT_ETIME.f.o
+[0m[ 78%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchkqr.f.o
+[0m[ 78%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchkrq.f.o
+[0m[ 79%] [ 79%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/ddrvvx.f.o
+[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/ddrvsx.f.o
+[0m[0m[ 79%] [ 79%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/derrbd.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchksp.f.o
+[0m[ 79%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchksy.f.o
+[0m[31m[1mLinking Fortran executable ../../bin/xlintstrfd
+[0m[ 79%] [ 79%] [ 79%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/derred.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/derrec.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/derrgg.f.o
+[0m[ 79%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchksy_rook.f.o
+[0m[ 79%] [ 79%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/derrhs.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchktb.f.o
+[0m[ 79%] Built target xlintstrfd
+[ 80%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchktp.f.o
+[0m[ 80%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/derrst.f.o
+[0m[ 80%] [ 80%] [ 80%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dget02.f.o
+[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchktr.f.o
+[0m[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchktz.f.o
+[0m[ 80%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dget10.f.o
+[0m[ 80%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/ddrvgt.f.o
+[0m[ 81%] [ 81%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dget22.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dget23.f.o
+[0m[ 81%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/ddrvls.f.o
+[0m[ 81%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/ddrvpb.f.o
+[0m[ 81%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dget24.f.o
+[0m[ 81%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/ddrvpp.f.o
+[0m[ 81%] [ 81%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/ddrvpt.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dget31.f.o
+[0m[ 81%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dget32.f.o
+[0m[ 81%] [ 82%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/ddrvsp.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/ddrvsy.f.o
+[ 82%] [0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dget33.f.o
+[0m[ 82%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/ddrvsy_rook.f.o
+[0m[ 82%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dget34.f.o
+[0m[ 82%] [ 83%] [ 83%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dget36.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/derrgt.f.o
+[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dget35.f.o
+[ 83%] [0m[ 83%] [0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/derrlq.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dget37.f.o
+[0m[ 83%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/derrls.f.o
+[0m[ 83%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/derrps.f.o
+[0m[ 83%] [ 83%] [ 83%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dget38.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dget39.f.o
+[0m[ 83%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dget51.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dget52.f.o
+[0m[ 83%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/derrql.f.o
+[ 83%] [0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/derrqp.f.o
+[0m[ 83%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dget53.f.o
+[0m[ 83%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dget54.f.o
+[0m[ 84%] [ 84%] [ 85%] [ 85%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dglmts.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/derrqr.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dgqrts.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dgrqts.f.o
+[0m[ 85%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dgsvts.f.o
+[0m[ 85%] [ 85%] [ 85%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/derrrq.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/derrsy.f.o
+[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dhst01.f.o
+[0m[0m[ 85%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/derrtr.f.o
+[0m[ 85%] [ 85%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dlarfy.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dlarhs.f.o
+[0m[ 85%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dlatm4.f.o
+[0m[ 85%] [ 85%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/derrtz.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dlctes.f.o
+[0m[ 85%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dlctsx.f.o
+[0m[ 85%] [ 86%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/derrvx.f.o
+[0m[ 86%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dlsets.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dort01.f.o
+[0m[ 86%] [ 86%] [ 86%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dort03.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dgbt01.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dgbt02.f.o
+[0m[ 86%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dsbt21.f.o
+[0m[ 86%] [ 86%] [ 86%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dsgt01.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dslect.f.o
+[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dgbt05.f.o
+[0m[0m[ 86%] [ 86%] [ 87%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dspt21.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dstt21.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dgelqs.f.o
+[0m[ 87%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dgeqls.f.o
+[0m[ 87%] [ 87%] [ 88%] [ 88%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dstt22.f.o
+[0m[ 88%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dgeqrs.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dsyt22.f.o
+[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dsyt21.f.o
+[0m[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dgerqs.f.o
+[0m[ 88%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dlafts.f.o
+[0m[ 88%] [ 88%] [ 88%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dget01.f.o
+[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dlahd2.f.o
+[0m[0m[ 88%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dlasum.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dlatb9.f.o
+[0m[ 88%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dstech.f.o
+[0m[ 88%] [ 89%] [ 89%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dstect.f.o
+[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dsvdch.f.o
+[0m[0m[ 89%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dsvdct.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dget02.f.o
+[0m[ 89%] [ 89%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/dsxt1.f.o
+[0m[ 89%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dget03.f.o
+[0m[ 89%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/alahdg.f.o
+[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dget04.f.o
+[0m[0m[ 89%] [ 89%] [ 89%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dget06.f.o
+[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/alasum.f.o
+[0m[0m[ 89%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/alasvm.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/alareq.f.o
+[0m[ 89%] [ 90%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/ilaenv.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dget07.f.o
+[ 90%] [0m[ 90%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dgtt01.f.o
+[0m[ 90%] [ 90%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dgtt02.f.o
+[0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/xerbla.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dgtt05.f.o
+[0m[ 91%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/xlaenv.f.o
+[0m[ 91%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dlaptm.f.o
+[0m[ 91%] [ 91%] [ 91%] [ 91%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dlarhs.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dlatb5.f.o
+[0m[ 91%] [32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/chkxer.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dlatb4.f.o
+[ 91%] [0m[32mBuilding Fortran object TESTING/EIG/CMakeFiles/xeigtstd.dir/__/__/INSTALL/dsecnd_INT_ETIME.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dlattb.f.o
+[0m[ 92%] [ 92%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dlattp.f.o
+[0m[ 92%] [ 92%] [31m[1mLinking Fortran executable ../../bin/xeigtstd
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dlattr.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dlavsp.f.o
+[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dlavsy.f.o
+[0m[0m[ 92%] [ 92%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dlavsy_rook.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dlqt01.f.o
+[0m[ 92%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dlqt02.f.o
+[ 92%] [0m[ 93%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dlqt03.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dpbt01.f.o
+[0m[ 93%] [ 93%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dpbt02.f.o
+[ 93%] [0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dpbt05.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dpot01.f.o
+[ 93%] [0m[ 93%] [ 93%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dpot03.f.o
+[0m[ 93%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dpot02.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dpot05.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dpst01.f.o
+[0m[ 93%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dppt01.f.o
+[0m[ 94%] [ 94%] [ 94%] [ 94%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dppt05.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dppt03.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dppt02.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dptt01.f.o
+[0m[ 94%] [ 94%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dptt02.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dptt05.f.o
+[0m[ 94%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dqlt01.f.o
+[0m[ 94%] [ 94%] [ 95%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dqlt03.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dqpt01.f.o
+[0m[ 95%] [ 95%] Built target xeigtstd
+[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dqlt02.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dqrt01.f.o
+[0m[ 95%] [ 95%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dqrt01p.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dqrt02.f.o
+[0m[ 95%] [ 95%] [ 95%] [ 95%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dqrt11.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dqrt03.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dqrt12.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dqrt13.f.o
+[0m[ 96%] [ 96%] [ 96%] [ 96%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dqrt14.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dqrt16.f.o
+[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dqrt15.f.o
+[0m[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dqrt17.f.o
+[0m[ 96%] [ 96%] [ 96%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/drqt01.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/drqt02.f.o
+[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/drqt03.f.o
+[0m[0m[ 96%] [ 96%] [ 97%] [ 97%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/drzt01.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dsyt01.f.o
+[0m[ 97%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/drzt02.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dspt01.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dsyt01_rook.f.o
+[0m[ 97%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dtbt02.f.o
+[0m[ 97%] [ 97%] [ 97%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dtbt03.f.o
+[0m[ 97%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dtbt05.f.o
+[0m[ 97%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dtbt06.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dtpt01.f.o
+[0m[ 98%] [ 98%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dtpt03.f.o
+[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dtpt02.f.o
+[0m[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dtpt05.f.o
+[0m[ 98%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dtpt06.f.o
+[0m[ 98%] [ 98%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dtrt01.f.o
+[0m[ 98%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dtrt02.f.o
+[0m[ 98%] [ 98%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dtrt03.f.o
+[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dtrt05.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dtrt06.f.o
+[0m[0m[ 98%] [ 99%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dtzt01.f.o
+[0m[ 99%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dtzt02.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dgennd.f.o
+[0m[ 99%] [ 99%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dqrt04.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dqrt05.f.o
+[0m[ 99%] [ 99%] [ 99%] [ 99%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/derrqrt.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchkqrt.f.o
+[0m[ 99%] [100%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dchkqrtp.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/derrqrtp.f.o
+[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/ddrvgb.f.o
+[0m[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/ddrvge.f.o
+[0m[100%] [100%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/derrge.f.o
+[0m[100%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/ddrvpo.f.o
+[0m[32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/derrpo.f.o
+[0m[100%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/dlaord.f.o
+[0m[100%] [32mBuilding Fortran object TESTING/LIN/CMakeFiles/xlintstd.dir/__/__/INSTALL/dsecnd_INT_ETIME.f.o
+[0m[31m[1mLinking Fortran executable ../../bin/xlintstd
+[0m[100%] Built target xlintstd
+[ 16%] [34m[1mNo install step for 'cisstNetlib_Fortran'
+[0m[ 18%] [34m[1mCompleted 'cisstNetlib_Fortran'
+[0m[ 18%] Built target cisstNetlib_Fortran
+[35m[1mScanning dependencies of target cisstNetlib
+[35m[1mScanning dependencies of target cisstNetlib_lawson_hanson
+[35m[1mScanning dependencies of target cisstNetlib_hanson_haskell
+[0m[0m[0m[ 23%] [ 23%] [ 25%] [ 27%] [ 30%] [32mBuilding Fortran object lawson-hanson/fortran/CMakeFiles/cisstNetlib_lawson_hanson.dir/g1.f.o
+[0m[ 32%] [32mBuilding C object cisstNetlib-wrappers/CMakeFiles/cisstNetlib.dir/cisstNetlib-hanson-haskell.c.o
+[0m[ 34%] [32mBuilding C object cisstNetlib-wrappers/CMakeFiles/cisstNetlib.dir/cisstNetlib-lawson-hanson.c.o
+[0m[32mBuilding C object cisstNetlib-wrappers/CMakeFiles/cisstNetlib.dir/cisstNetlib-lapack.c.o
+[0m[ 37%] [32mBuilding Fortran object lawson-hanson/fortran/CMakeFiles/cisstNetlib_lawson_hanson.dir/diff.f.o
+[0m[32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/drotm.f.o
+[0m[32mBuilding Fortran object lawson-hanson/fortran/CMakeFiles/cisstNetlib_lawson_hanson.dir/hfti.f.o
+[0m[32mBuilding Fortran object lawson-hanson/fortran/CMakeFiles/cisstNetlib_lawson_hanson.dir/h12.f.o
+[0m[ 39%] [ 41%] [31m[1mLinking C static library libcisstNetlib.a
+[0m[32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/drotmg.f.o
+[0m[32mBuilding Fortran object lawson-hanson/fortran/CMakeFiles/cisstNetlib_lawson_hanson.dir/ldp.f.o
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/drotmg.f:101.15:
+
+      GO TO IGO,(120,150,180,210)                                       
+               1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/drotmg.f:107.72:
+
+               ASSIGN 120 TO IGO                                        
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+[0m[ 44%] [ 46%] [ 48%] [32mBuilding Fortran object lawson-hanson/fortran/CMakeFiles/cisstNetlib_lawson_hanson.dir/qrbd.f.o
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/drotmg.f:119.72:
+
+               ASSIGN 150 TO IGO                                        
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/drotmg.f:132.72:
+
+               ASSIGN 180 TO IGO                                        
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/drotmg.f:143.72:
+
+               ASSIGN 210 TO IGO                                        
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+[0m[ 51%] [32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/lpdp.f.o
+[32mBuilding Fortran object lawson-hanson/fortran/CMakeFiles/cisstNetlib_lawson_hanson.dir/nnls.f.o
+[0m[0m[32mBuilding Fortran object lawson-hanson/fortran/CMakeFiles/cisstNetlib_lawson_hanson.dir/svdrs.f.o
+[0m[ 51%] Built target cisstNetlib
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lpdp.f:123.9:
+
+      IS(2) = 0                                                         
+         1
+Warning: Array reference at (1) is out of bounds (2 > 1) in dimension 1
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lpdp.f:167.9:
+
+      IS(2) = 0                                                         
+         1
+Warning: Array reference at (1) is out of bounds (2 > 1) in dimension 1
+[ 53%] [ 55%] [32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/lsei.f.o
+[0m[ 58%] [ 60%] [32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/lsi.f.o
+[0m[32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/slatec.f.o
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsei.f:390.21:
+
+      CALL XERRWV(67HLSEI( ), INSUFFICIENT STORAGE ALLOCATED FOR WS(*), 
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsei.f:401.21:
+
+      CALL XERRWV(68HLSEI( ), INSUFFICIENT STORAGE ALLOCATED FOR IP(*), 
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsei.f:423.21:
+
+      CALL XERROR(36HLSEI( ), MDW.LT.ME+MA+MG IS AN ERROR, 36, NERR,    
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsei.f:433.72:
+
+      ASSIGN 90 TO IGO990                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsei.f:439.10:
+
+     * 54HLSEI( ), MDW.LT.N, WHEN COV MATRIX NEEDED, IS AN ERROR, 54,   
+          1
+Warning: Legacy Extension: Hollerith constant at (1)
+[0m[32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/wnlit.f.o
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsei.f:646.21:
+
+      CALL XERROR(38HLSEI( ) THE OPTION VECTOR IS UNDEFINED, 38, NERR,  
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsei.f:656.10:
+
+     * 52HLSEI( ). THE LINKS IN THE OPTION VECTOR ARE CYCLING., 52,     
+          1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsei.f:675.21:
+
+      CALL XERROR(38HLSEI( ) THE OPTION VECTOR IS UNDEFINED, 38, NERR,  
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsi.f:92.72:
+
+      ASSIGN 40 TO IGO994                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsei.f:687.18:
+
+  560 GO TO IGO990, (90)                                                
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.50:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+                                                  1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsi.f:119.72:
+
+      ASSIGN 60 TO IGO990                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.14:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+              1
+Warning: Extension: Conversion from HOLLERITH to INTEGER(4) at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.18:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+                  1
+Warning: Extension: Conversion from HOLLERITH to INTEGER(4) at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.22:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+                      1
+Warning: Extension: Conversion from HOLLERITH to INTEGER(4) at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.26:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+                          1
+Warning: Extension: Conversion from HOLLERITH to INTEGER(4) at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.30:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+                              1
+Warning: Extension: Conversion from HOLLERITH to INTEGER(4) at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.34:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+                                  1
+Warning: Extension: Conversion from HOLLERITH to INTEGER(4) at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.38:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+                                      1
+Warning: Extension: Conversion from HOLLERITH to INTEGER(4) at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.42:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+                                          1
+Warning: Extension: Conversion from HOLLERITH to INTEGER(4) at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.46:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+                                              1
+Warning: Extension: Conversion from HOLLERITH to INTEGER(4) at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.50:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+                                                  1
+Warning: Extension: Conversion from HOLLERITH to INTEGER(4) at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:66.72:
+
+      ASSIGN 20 TO IGO996                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:70.72:
+
+   20 ASSIGN 30 TO IGO993                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:77.72:
+
+      ASSIGN 40 TO IGO990                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:127.72:
+
+      ASSIGN 120 TO IGO993                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:166.72:
+
+      ASSIGN 190 TO IGO996                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:170.72:
+
+  190 ASSIGN 200 TO IGO993                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsi.f:336.18:
+
+  530 GO TO IGO994, (40)                                                
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsi.f:337.18:
+
+  540 GO TO IGO990, (60)                                                
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsi.f:125.9:
+
+      IP(2) = N + MAX0(M,N) + (MG+2)*(N+7)                              
+         1
+Warning: Array reference at (1) is out of bounds (2 > 1) in dimension 1
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:188.72:
+
+      ASSIGN 240 TO IGO990                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:240.72:
+
+      ASSIGN 320 TO IGO996                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:244.72:
+
+  320 ASSIGN 330 TO IGO993                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:404.18:
+
+  580 GO TO IGO993, (30, 200, 330, 120)                                 
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:405.18:
+
+  590 GO TO IGO990, (40, 240)                                           
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:406.18:
+
+  600 GO TO IGO996, (20, 190, 320)                                      
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+[0m[ 62%] [32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/wnlsm.f.o
+[ 67%] [ 67%] [0m[31m[1mLinking Fortran static library libcisstNetlib_lawson_hanson.a
+[0m[ 69%] [32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/wnnls.f.o
+[32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/xerabt.f.o
+[0m[0m[32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/xerclr.f.o
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:77.72:
+
+      ASSIGN 10 TO IGO998                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:83.72:
+
+   10 ASSIGN 20 TO IGO995                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:102.72:
+
+      ASSIGN 30 TO IGO991                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:108.72:
+
+      ASSIGN 40 TO IGO986                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:114.72:
+
+   50 ASSIGN 60 TO IGO983                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:122.72:
+
+   80 ASSIGN 90 TO IGO980                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:155.21:
+
+      CALL XERROR(39HWNNLS( ) THE OPTION VECTOR IS UNDEFINED, 39, NERR, 
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:165.10:
+
+     * 53HWNNLS( ). THE LINKS IN THE OPTION VECTOR ARE CYCLING., 53,    
+          1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:183.21:
+
+      CALL XERROR(39HWNNLS( ) THE OPTION VECTOR IS UNDEFINED, 39, NERR, 
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:209.72:
+
+      ASSIGN 220 TO IGO977                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnnls.f:277.21:
+
+      CALL XERRWV(70HWNNLS( ), INSUFFICIENT STORAGE ALLOCATED FOR WORK(*
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnnls.f:287.21:
+
+      CALL XERRWV(72HWNNLS( ), INSUFFICIENT STORAGE ALLOCATED FOR IWORK(
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnnls.f:295.21:
+
+      CALL XERROR(44HWNNLS( ), THE VALUE MDW.LT.ME+MA IS AN ERROR, 44,  
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnnls.f:302.21:
+
+      CALL XERROR(39HWNNLS( ), L.LE.0.AND.L.LE.N IS REQUIRED, 39, NERR, 
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:302.72:
+
+      ASSIGN 310 TO IGO958                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnnls.f:282.22:
+
+   20 IF (.NOT.(IWORK(2).GT.0)) GO TO 40                                
+                      1
+Warning: Array reference at (1) is out of bounds (2 > 1) in dimension 1
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnnls.f:284.22:
+
+      IF (.NOT.(IWORK(2).LT.LIW)) GO TO 30                              
+                      1
+Warning: Array reference at (1) is out of bounds (2 > 1) in dimension 1
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:375.72:
+
+      ASSIGN 460 TO IGO938                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:381.72:
+
+      ASSIGN 480 TO IGO938                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:395.72:
+
+      ASSIGN 500 TO IGO938                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:403.72:
+
+      ASSIGN 520 TO IGO938                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:547.72:
+
+      ASSIGN 880 TO IGO897                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:558.72:
+
+      ASSIGN 900 TO IGO897                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:597.72:
+
+      ASSIGN 1010 TO IGO958                                             
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:665.18:
+
+ 1200 GO TO IGO986, (40)                                                
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:666.18:
+
+ 1210 GO TO IGO980, (90)                                                
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:667.18:
+
+ 1220 GO TO IGO991, (30)                                                
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:668.18:
+
+ 1230 GO TO IGO998, (10)                                                
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:669.18:
+
+ 1240 GO TO IGO995, (20)                                                
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:670.18:
+
+ 1250 GO TO IGO983, (60)                                                
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:671.18:
+
+ 1260 GO TO IGO977, (220)                                               
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:672.18:
+
+ 1270 GO TO IGO958, (310, 1010)                                         
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:673.18:
+
+ 1280 GO TO IGO897, (880, 900)                                          
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:674.18:
+
+ 1290 GO TO IGO938, (460, 480, 500, 520)                                
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+[0m[ 69%] [ 72%] Built target cisstNetlib_lawson_hanson
+[32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/xerctl.f.o
+[0m[ 74%] [ 76%] [ 79%] [32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/xerdmp.f.o
+[32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/xermax.f.o
+[0m[0m[32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/xerprt.f.o
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerdmp.f:14.20:
+
+      CALL XERSAV(1H ,0,0,0,KOUNT)                                      
+                    1
+Warning: Legacy Extension: Hollerith constant at (1)
+[0m[ 81%] [ 83%] [32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/xerror.f.o
+[0m[ 86%] [32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/xerrwv.f.o
+[0m[32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/xersav.f.o
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:49.41:
+
+         IF (LKNTRL.GT.0) CALL XERPRT(17HFATAL ERROR IN...,17)          
+                                         1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:50.22:
+
+      CALL XERPRT (33HXERRWV -- NMESSG MUST BE POSITIVE,33)             
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:52.38:
+
+      IF (LKNTRL.GT.0) CALL XERPRT(29HJOB ABORT DUE TO FATAL ERROR.,    
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:54.37:
+
+      IF (LKNTRL.GT.0) CALL XERSAV(1H ,0,0,0,KDUMMY)                    
+                                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:55.22:
+
+      CALL XERABT (23HXERRWV -- INVALID INPUT,23)                       
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:41.38:
+
+      IF (LKNTRL.GT.0) CALL XERPRT(17HFATAL ERROR IN...,17)             
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:42.22:
+
+      CALL XERPRT (33HXERROR -- NMESSG MUST BE POSITIVE,33)             
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:59.38:
+
+      IF (LKNTRL.GT.0) CALL XERPRT(17HFATAL ERROR IN...,17)             
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:60.22:
+
+      CALL XERPRT (28HXERRWV -- NERR=0 IS AN ERROR,28)                  
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:44.38:
+
+      IF (LKNTRL.GT.0) CALL XERPRT(29HJOB ABORT DUE TO FATAL ERROR.,    
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:62.38:
+
+      IF (LKNTRL.GT.0) CALL XERPRT(29HJOB ABORT DUE TO FATAL ERROR.,    
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:46.38:
+
+      IF (LKNTRL.GT.0) CALL XERSAV (1H ,0,0,0,KDUMMY)                   
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:64.37:
+
+      IF (LKNTRL.GT.0) CALL XERSAV(1H ,0,0,0,KDUMMY)                    
+                                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:47.22:
+
+      CALL XERABT (23HXERROR -- INVALID INPUT,23)                       
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:65.22:
+
+      CALL XERABT (23HXERRWV -- INVALID INPUT,23)                       
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:51.38:
+
+      IF (LKNTRL.GT.0) CALL XERPRT(17HFATAL ERROR IN...,17)             
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:69.38:
+
+      IF (LKNTRL.GT.0) CALL XERPRT(17HFATAL ERROR IN...,17)             
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:70.22:
+
+      CALL XERPRT (32HXERRWV -- INVALID VALUE OF LEVEL,32)              
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:72.41:
+
+         IF (LKNTRL.GT.0) CALL XERPRT(29HJOB ABORT DUE TO FATAL ERROR., 
+                                         1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:74.40:
+
+         IF (LKNTRL.GT.0) CALL XERSAV(1H ,0,0,0,KDUMMY)                 
+                                        1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:75.24:
+
+         CALL XERABT(23HXERROR -- INVALID INPUT,23)                     
+                        1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:52.22:
+
+      CALL XERPRT (28HXERROR -- NERR=0 IS AN ERROR,28)                  
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:54.38:
+
+      IF (LKNTRL.GT.0) CALL XERPRT(29HJOB ABORT DUE TO FATAL ERROR.,    
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:100.26:
+
+            CALL XERPRT(1H ,1)                                          
+                          1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:103.10:
+
+     1(57HWARNING MESSAGE...THIS MESSAGE WILL ONLY BE PRINTED ONCE.,57) 
+          1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:104.44:
+
+            IF (LLEVEL.EQ.0) CALL XERPRT(13HWARNING IN...,13)           
+                                            1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:56.38:
+
+      IF (LKNTRL.GT.0) CALL XERSAV (1H ,0,0,0,KDUMMY)                   
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:57.22:
+
+      CALL XERABT (23HXERROR -- INVALID INPUT,23)                       
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:106.16:
+
+     1      (23HRECOVERABLE ERROR IN...,23)                             
+                1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:107.44:
+
+            IF (LLEVEL.EQ.2) CALL XERPRT(17HFATAL ERROR IN...,17)       
+                                            1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:61.38:
+
+      IF (LKNTRL.GT.0) CALL XERPRT(17HFATAL ERROR IN...,17)             
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:62.22:
+
+      CALL XERPRT (32HXERROR -- INVALID VALUE OF LEVEL,32)              
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:64.38:
+
+      IF (LKNTRL.GT.0) CALL XERPRT(29HJOB ABORT DUE TO FATAL ERROR.,    
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:66.38:
+
+      IF (LKNTRL.GT.0) CALL XERSAV (1H ,0,0,0,KDUMMY)                   
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:67.22:
+
+      CALL XERABT (23HXERROR -- INVALID INPUT,23)                       
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:140.13:
+
+     1   (35HJOB ABORT DUE TO UNRECOVERED ERROR.,35)                    
+             1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:142.13:
+
+     1   (29HJOB ABORT DUE TO FATAL ERROR.,29)                          
+             1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:144.23:
+
+         CALL XERSAV(1H ,0,0,0,KDUMMY)                                  
+                       1
+Warning: Legacy Extension: Hollerith constant at (1)
+[0m[ 88%] [ 90%] [32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/xgetf.f.o
+[0m[ 93%] [32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/xgetua.f.o
+[0m[ 95%] [32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/xgetun.f.o
+[0m[32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/xsetf.f.o
+[0m[ 97%] [32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/xsetua.f.o
+[0m[100%] [32mBuilding Fortran object hanson-haskell/fortran/CMakeFiles/cisstNetlib_hanson_haskell.dir/xsetun.f.o
+[0m[31m[1mLinking Fortran static library libcisstNetlib_hanson_haskell.a
+[0m[100%] Built target cisstNetlib_hanson_haskell

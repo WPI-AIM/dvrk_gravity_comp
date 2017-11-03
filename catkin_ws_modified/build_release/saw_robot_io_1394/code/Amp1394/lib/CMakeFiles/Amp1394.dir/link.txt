@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../lib/libAmp1394.a  CMakeFiles/Amp1394.dir/code/AmpIO.cpp.o CMakeFiles/Amp1394.dir/code/FirewirePort.cpp.o
+/usr/bin/ranlib ../../../lib/libAmp1394.a

@@ -1,0 +1,10 @@
+[35m[1mScanning dependencies of target cisst_ros_bridge
+[0m[ 25%] [32mBuilding CXX object CMakeFiles/cisst_ros_bridge.dir/src/mtsROSBridge.cpp.o
+[0m[ 50%] [32mBuilding CXX object CMakeFiles/cisst_ros_bridge.dir/src/mtsCISSTToROS.cpp.o
+[0m[ 75%] [32mBuilding CXX object CMakeFiles/cisst_ros_bridge.dir/src/mtsROSToCISST.cpp.o
+[0m[31m[1mLinking CXX shared library /home/davincic2/catkin_ws/devel_debug/.private/cisst_ros_bridge/lib/libcisst_ros_bridge.so
+[0m[ 75%] Built target cisst_ros_bridge
+[35m[1mScanning dependencies of target example_bridge
+[0m[100%] [32mBuilding CXX object CMakeFiles/example_bridge.dir/example/main.cpp.o
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_debug/.private/cisst_ros_bridge/lib/cisst_ros_bridge/example_bridge
+[0m[100%] Built target example_bridge

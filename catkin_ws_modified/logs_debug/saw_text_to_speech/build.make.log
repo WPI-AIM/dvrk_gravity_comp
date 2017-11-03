@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target sawTextToSpeech
+[0m[100%] [32mBuilding CXX object CMakeFiles/sawTextToSpeech.dir/code/mtsTextToSpeech.cpp.o
+[0m[31m[1mLinking CXX shared library lib/libsawTextToSpeech.so
+[0m[100%] Built target sawTextToSpeech

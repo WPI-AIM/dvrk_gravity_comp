@@ -1,0 +1,4 @@
+Symlinking /home/davincic2/catkin_ws/devel_debug/share/optoforce_ros/cmake/optoforce_rosConfig.cmake
+Symlinking /home/davincic2/catkin_ws/devel_debug/share/optoforce_ros/cmake/optoforce_rosConfig-version.cmake
+Symlinking /home/davincic2/catkin_ws/devel_debug/lib/pkgconfig/optoforce_ros.pc
+Symlinking /home/davincic2/catkin_ws/devel_debug/lib/optoforce_ros/optoforce_json

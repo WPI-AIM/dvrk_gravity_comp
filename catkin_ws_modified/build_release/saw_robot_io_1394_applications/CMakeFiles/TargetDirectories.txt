@@ -1,0 +1,4 @@
+/home/davincic2/catkin_ws/build_release/saw_robot_io_1394_applications/current-calibration/CMakeFiles/sawRobotIO1394CurrentCalibration.dir
+/home/davincic2/catkin_ws/build_release/saw_robot_io_1394_applications/Qt/CMakeFiles/sawRobotIO1394QtConsole.dir
+/home/davincic2/catkin_ws/build_release/saw_robot_io_1394_applications/data-plot/CMakeFiles/sawRobotIO1394QtDataPlot.dir
+/home/davincic2/catkin_ws/build_release/saw_robot_io_1394_applications/data-plot/CMakeFiles/sawRobotIO1394QtDataPlot_automoc.dir

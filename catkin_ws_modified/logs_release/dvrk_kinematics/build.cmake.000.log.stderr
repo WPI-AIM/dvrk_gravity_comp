@@ -1,0 +1,2 @@
+[36m--[0m Looking for saw component: sawRobotIO1394 in: /home/davincic2/catkin_ws/build_release/cisst/share/cisst-1.0/cmake/saw
+[36m--[0m Found saw component "sawRobotIO1394" in cisst non-install path: /home/davincic2/catkin_ws/devel_release/share/sawRobotIO1394/cmake

@@ -1,0 +1,19 @@
+Not searching for unused variables given on the command line.
+[36m--[0m The Fortran compiler identification is GNU
+[36m--[0m Check for working Fortran compiler: /usr/bin/f95
+[36m--[0m Check for working Fortran compiler: /usr/bin/f95  -- works
+[36m--[0m Detecting Fortran compiler ABI info
+[36m--[0m Detecting Fortran compiler ABI info - done
+[36m--[0m Checking whether /usr/bin/f95 supports Fortran 90
+[36m--[0m Checking whether /usr/bin/f95 supports Fortran 90 -- yes
+[36m--[0m The C compiler identification is GNU 4.8.4
+[36m--[0m Check for working C compiler: /usr/bin/cc
+[36m--[0m Check for working C compiler: /usr/bin/cc -- works
+[36m--[0m Detecting C compiler ABI info
+[36m--[0m Detecting C compiler ABI info - done
+Using fortran runtime library: /usr/lib/x86_64-linux-gnu/libgfortran.so.3.0.0
+Using gcc runtime library: /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc.a
+Using quadmath library: /usr/lib/gcc/x86_64-linux-gnu/4.8/libquadmath.a
+[36m--[0m Configuring done
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /home/davincic2/catkin_ws/build_release/cisst_netlib

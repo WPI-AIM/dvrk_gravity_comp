@@ -1,0 +1,1 @@
+/home/davincic2/catkin_ws/devel_release/.private/dvrk_model/share/dvrk_model/cmake/dvrk_modelConfig.cmake

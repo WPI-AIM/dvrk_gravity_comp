@@ -1,0 +1,586 @@
+loading initial cache file /home/davincic2/catkin_ws/build_release/cisst_netlib/cisstNetlibLapack/tmp/cisstNetlib_Fortran-cache.cmake
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lpdp.f:123.9:
+
+      IS(2) = 0                                                         
+         1
+Warning: Array reference at (1) is out of bounds (2 > 1) in dimension 1
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lpdp.f:167.9:
+
+      IS(2) = 0                                                         
+         1
+Warning: Array reference at (1) is out of bounds (2 > 1) in dimension 1
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/drotmg.f:101.15:
+
+      GO TO IGO,(120,150,180,210)                                       
+               1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/drotmg.f:107.72:
+
+               ASSIGN 120 TO IGO                                        
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/drotmg.f:119.72:
+
+               ASSIGN 150 TO IGO                                        
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/drotmg.f:132.72:
+
+               ASSIGN 180 TO IGO                                        
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/drotmg.f:143.72:
+
+               ASSIGN 210 TO IGO                                        
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsei.f:390.21:
+
+      CALL XERRWV(67HLSEI( ), INSUFFICIENT STORAGE ALLOCATED FOR WS(*), 
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsei.f:401.21:
+
+      CALL XERRWV(68HLSEI( ), INSUFFICIENT STORAGE ALLOCATED FOR IP(*), 
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsei.f:423.21:
+
+      CALL XERROR(36HLSEI( ), MDW.LT.ME+MA+MG IS AN ERROR, 36, NERR,    
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsei.f:433.72:
+
+      ASSIGN 90 TO IGO990                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsei.f:439.10:
+
+     * 54HLSEI( ), MDW.LT.N, WHEN COV MATRIX NEEDED, IS AN ERROR, 54,   
+          1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsei.f:646.21:
+
+      CALL XERROR(38HLSEI( ) THE OPTION VECTOR IS UNDEFINED, 38, NERR,  
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsei.f:656.10:
+
+     * 52HLSEI( ). THE LINKS IN THE OPTION VECTOR ARE CYCLING., 52,     
+          1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsei.f:675.21:
+
+      CALL XERROR(38HLSEI( ) THE OPTION VECTOR IS UNDEFINED, 38, NERR,  
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsei.f:687.18:
+
+  560 GO TO IGO990, (90)                                                
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsi.f:92.72:
+
+      ASSIGN 40 TO IGO994                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsi.f:119.72:
+
+      ASSIGN 60 TO IGO990                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsi.f:336.18:
+
+  530 GO TO IGO994, (40)                                                
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsi.f:337.18:
+
+  540 GO TO IGO990, (60)                                                
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/lsi.f:125.9:
+
+      IP(2) = N + MAX0(M,N) + (MG+2)*(N+7)                              
+         1
+Warning: Array reference at (1) is out of bounds (2 > 1) in dimension 1
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.50:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+                                                  1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.14:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+              1
+Warning: Extension: Conversion from HOLLERITH to INTEGER(4) at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.18:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+                  1
+Warning: Extension: Conversion from HOLLERITH to INTEGER(4) at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.22:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+                      1
+Warning: Extension: Conversion from HOLLERITH to INTEGER(4) at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.26:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+                          1
+Warning: Extension: Conversion from HOLLERITH to INTEGER(4) at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.30:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+                              1
+Warning: Extension: Conversion from HOLLERITH to INTEGER(4) at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.34:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+                                  1
+Warning: Extension: Conversion from HOLLERITH to INTEGER(4) at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.38:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+                                      1
+Warning: Extension: Conversion from HOLLERITH to INTEGER(4) at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.42:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+                                          1
+Warning: Extension: Conversion from HOLLERITH to INTEGER(4) at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.46:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+                                              1
+Warning: Extension: Conversion from HOLLERITH to INTEGER(4) at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/slatec.f:92.50:
+
+     2     /1H0,1H1,1H2,1H3,1H4,1H5,1H6,1H7,1H8,1H9/                    
+                                                  1
+Warning: Extension: Conversion from HOLLERITH to INTEGER(4) at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:77.72:
+
+      ASSIGN 10 TO IGO998                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:83.72:
+
+   10 ASSIGN 20 TO IGO995                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:66.72:
+
+      ASSIGN 20 TO IGO996                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:102.72:
+
+      ASSIGN 30 TO IGO991                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:70.72:
+
+   20 ASSIGN 30 TO IGO993                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:108.72:
+
+      ASSIGN 40 TO IGO986                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:77.72:
+
+      ASSIGN 40 TO IGO990                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:114.72:
+
+   50 ASSIGN 60 TO IGO983                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:122.72:
+
+   80 ASSIGN 90 TO IGO980                                               
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:155.21:
+
+      CALL XERROR(39HWNNLS( ) THE OPTION VECTOR IS UNDEFINED, 39, NERR, 
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:127.72:
+
+      ASSIGN 120 TO IGO993                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:165.10:
+
+     * 53HWNNLS( ). THE LINKS IN THE OPTION VECTOR ARE CYCLING., 53,    
+          1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:183.21:
+
+      CALL XERROR(39HWNNLS( ) THE OPTION VECTOR IS UNDEFINED, 39, NERR, 
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:166.72:
+
+      ASSIGN 190 TO IGO996                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnnls.f:277.21:
+
+      CALL XERRWV(70HWNNLS( ), INSUFFICIENT STORAGE ALLOCATED FOR WORK(*
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:170.72:
+
+  190 ASSIGN 200 TO IGO993                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:209.72:
+
+      ASSIGN 220 TO IGO977                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnnls.f:287.21:
+
+      CALL XERRWV(72HWNNLS( ), INSUFFICIENT STORAGE ALLOCATED FOR IWORK(
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:188.72:
+
+      ASSIGN 240 TO IGO990                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnnls.f:295.21:
+
+      CALL XERROR(44HWNNLS( ), THE VALUE MDW.LT.ME+MA IS AN ERROR, 44,  
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:240.72:
+
+      ASSIGN 320 TO IGO996                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:302.72:
+
+      ASSIGN 310 TO IGO958                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:244.72:
+
+  320 ASSIGN 330 TO IGO993                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnnls.f:302.21:
+
+      CALL XERROR(39HWNNLS( ), L.LE.0.AND.L.LE.N IS REQUIRED, 39, NERR, 
+                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnnls.f:282.22:
+
+   20 IF (.NOT.(IWORK(2).GT.0)) GO TO 40                                
+                      1
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:375.72:
+
+      ASSIGN 460 TO IGO938                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+Warning: Array reference at (1) is out of bounds (2 > 1) in dimension 1
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnnls.f:284.22:
+
+      IF (.NOT.(IWORK(2).LT.LIW)) GO TO 30                              
+                      1
+Warning: Array reference at (1) is out of bounds (2 > 1) in dimension 1
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:381.72:
+
+      ASSIGN 480 TO IGO938                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:395.72:
+
+      ASSIGN 500 TO IGO938                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:403.72:
+
+      ASSIGN 520 TO IGO938                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:404.18:
+
+  580 GO TO IGO993, (30, 200, 330, 120)                                 
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:405.18:
+
+  590 GO TO IGO990, (40, 240)                                           
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlit.f:406.18:
+
+  600 GO TO IGO996, (20, 190, 320)                                      
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:547.72:
+
+      ASSIGN 880 TO IGO897                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:558.72:
+
+      ASSIGN 900 TO IGO897                                              
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:597.72:
+
+      ASSIGN 1010 TO IGO958                                             
+                                                                        1
+Warning: Deleted feature: ASSIGN statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:665.18:
+
+ 1200 GO TO IGO986, (40)                                                
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:666.18:
+
+ 1210 GO TO IGO980, (90)                                                
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:667.18:
+
+ 1220 GO TO IGO991, (30)                                                
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:668.18:
+
+ 1230 GO TO IGO998, (10)                                                
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:669.18:
+
+ 1240 GO TO IGO995, (20)                                                
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:670.18:
+
+ 1250 GO TO IGO983, (60)                                                
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:671.18:
+
+ 1260 GO TO IGO977, (220)                                               
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:672.18:
+
+ 1270 GO TO IGO958, (310, 1010)                                         
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:673.18:
+
+ 1280 GO TO IGO897, (880, 900)                                          
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/wnlsm.f:674.18:
+
+ 1290 GO TO IGO938, (460, 480, 500, 520)                                
+                  1
+Warning: Deleted feature: Assigned GOTO statement at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerdmp.f:14.20:
+
+      CALL XERSAV(1H ,0,0,0,KOUNT)                                      
+                    1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:41.38:
+
+      IF (LKNTRL.GT.0) CALL XERPRT(17HFATAL ERROR IN...,17)             
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:42.22:
+
+      CALL XERPRT (33HXERROR -- NMESSG MUST BE POSITIVE,33)             
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:44.38:
+
+      IF (LKNTRL.GT.0) CALL XERPRT(29HJOB ABORT DUE TO FATAL ERROR.,    
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:46.38:
+
+      IF (LKNTRL.GT.0) CALL XERSAV (1H ,0,0,0,KDUMMY)                   
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:47.22:
+
+      CALL XERABT (23HXERROR -- INVALID INPUT,23)                       
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:51.38:
+
+      IF (LKNTRL.GT.0) CALL XERPRT(17HFATAL ERROR IN...,17)             
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:49.41:
+
+         IF (LKNTRL.GT.0) CALL XERPRT(17HFATAL ERROR IN...,17)          
+                                         1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:50.22:
+
+      CALL XERPRT (33HXERRWV -- NMESSG MUST BE POSITIVE,33)             
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:52.38:
+
+      IF (LKNTRL.GT.0) CALL XERPRT(29HJOB ABORT DUE TO FATAL ERROR.,    
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:54.37:
+
+      IF (LKNTRL.GT.0) CALL XERSAV(1H ,0,0,0,KDUMMY)                    
+                                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:55.22:
+
+      CALL XERABT (23HXERRWV -- INVALID INPUT,23)                       
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:52.22:
+
+      CALL XERPRT (28HXERROR -- NERR=0 IS AN ERROR,28)                  
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:59.38:
+
+      IF (LKNTRL.GT.0) CALL XERPRT(17HFATAL ERROR IN...,17)             
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:60.22:
+
+      CALL XERPRT (28HXERRWV -- NERR=0 IS AN ERROR,28)                  
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:62.38:
+
+      IF (LKNTRL.GT.0) CALL XERPRT(29HJOB ABORT DUE TO FATAL ERROR.,    
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:64.37:
+
+      IF (LKNTRL.GT.0) CALL XERSAV(1H ,0,0,0,KDUMMY)                    
+                                     1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:65.22:
+
+      CALL XERABT (23HXERRWV -- INVALID INPUT,23)                       
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:54.38:
+
+      IF (LKNTRL.GT.0) CALL XERPRT(29HJOB ABORT DUE TO FATAL ERROR.,    
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:69.38:
+
+      IF (LKNTRL.GT.0) CALL XERPRT(17HFATAL ERROR IN...,17)             
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:70.22:
+
+      CALL XERPRT (32HXERRWV -- INVALID VALUE OF LEVEL,32)              
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:72.41:
+
+         IF (LKNTRL.GT.0) CALL XERPRT(29HJOB ABORT DUE TO FATAL ERROR., 
+                                         1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:74.40:
+
+         IF (LKNTRL.GT.0) CALL XERSAV(1H ,0,0,0,KDUMMY)                 
+                                        1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:75.24:
+
+         CALL XERABT(23HXERROR -- INVALID INPUT,23)                     
+                        1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:56.38:
+
+      IF (LKNTRL.GT.0) CALL XERSAV (1H ,0,0,0,KDUMMY)                   
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:57.22:
+
+      CALL XERABT (23HXERROR -- INVALID INPUT,23)                       
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:100.26:
+
+            CALL XERPRT(1H ,1)                                          
+                          1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:103.10:
+
+     1(57HWARNING MESSAGE...THIS MESSAGE WILL ONLY BE PRINTED ONCE.,57) 
+          1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:104.44:
+
+            IF (LLEVEL.EQ.0) CALL XERPRT(13HWARNING IN...,13)           
+                                            1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:106.16:
+
+     1      (23HRECOVERABLE ERROR IN...,23)                             
+                1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:107.44:
+
+            IF (LLEVEL.EQ.2) CALL XERPRT(17HFATAL ERROR IN...,17)       
+                                            1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:61.38:
+
+      IF (LKNTRL.GT.0) CALL XERPRT(17HFATAL ERROR IN...,17)             
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:62.22:
+
+      CALL XERPRT (32HXERROR -- INVALID VALUE OF LEVEL,32)              
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:64.38:
+
+      IF (LKNTRL.GT.0) CALL XERPRT(29HJOB ABORT DUE TO FATAL ERROR.,    
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:66.38:
+
+      IF (LKNTRL.GT.0) CALL XERSAV (1H ,0,0,0,KDUMMY)                   
+                                      1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:140.13:
+
+     1   (35HJOB ABORT DUE TO UNRECOVERED ERROR.,35)                    
+             1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:142.13:
+
+     1   (29HJOB ABORT DUE TO FATAL ERROR.,29)                          
+             1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerrwv.f:144.23:
+
+         CALL XERSAV(1H ,0,0,0,KDUMMY)                                  
+                       1
+Warning: Legacy Extension: Hollerith constant at (1)
+/home/davincic2/catkin_ws/src/cisst-saw/cisstNetlib/hanson-haskell/fortran/xerror.f:67.22:
+
+      CALL XERABT (23HXERROR -- INVALID INPUT,23)                       
+                      1
+Warning: Legacy Extension: Hollerith constant at (1)

@@ -1,0 +1,8 @@
+prefix=/home/davincic2/catkin_ws/devel_release/.private/rqt_dvrk
+
+Name: rqt_dvrk
+Description: Description of rqt_dvrk
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/davincic2/catkin_ws/devel_release/.private/rqt_dvrk/lib 
+Requires: 

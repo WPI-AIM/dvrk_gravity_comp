@@ -1,0 +1,4 @@
+M- cisst 1.0.8 (git: 1.0.8)
+M- CISST_ROOT: undefined
+M- cisst share: undefined
+M- cmn_m: 1, cmn_kg: 1, CISST_USE_SI_UNITS is set to 1

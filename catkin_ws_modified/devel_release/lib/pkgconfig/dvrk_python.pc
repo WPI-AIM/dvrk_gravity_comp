@@ -1,0 +1,1 @@
+/home/davincic2/catkin_ws/devel_release/.private/dvrk_python/lib/pkgconfig/dvrk_python.pc

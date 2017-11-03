@@ -1,0 +1,8 @@
+prefix=/home/davincic2/dvrk_ws/devel
+
+Name: dvrk_teleop
+Description: Description of dvrk_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/davincic2/dvrk_ws/devel/lib 
+Requires: 

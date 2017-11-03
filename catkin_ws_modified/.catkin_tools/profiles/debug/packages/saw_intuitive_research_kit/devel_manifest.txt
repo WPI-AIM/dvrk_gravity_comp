@@ -1,0 +1,3 @@
+cisst-saw/sawIntuitiveResearchKit/components
+/home/davincic2/catkin_ws/devel_debug/.private/saw_intuitive_research_kit/share/sawIntuitiveResearchKit/cmake/sawIntuitiveResearchKitConfig.cmake /home/davincic2/catkin_ws/devel_debug/share/sawIntuitiveResearchKit/cmake/sawIntuitiveResearchKitConfig.cmake
+/home/davincic2/catkin_ws/devel_debug/.private/saw_intuitive_research_kit/share/sawIntuitiveResearchKit/cmake/sawIntuitiveResearchKitConfigVersion.cmake /home/davincic2/catkin_ws/devel_debug/share/sawIntuitiveResearchKit/cmake/sawIntuitiveResearchKitConfigVersion.cmake

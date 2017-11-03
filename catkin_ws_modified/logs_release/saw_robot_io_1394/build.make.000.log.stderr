@@ -1,0 +1,15 @@
+/home/davincic2/catkin_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/qlacloserelays.cpp: In function ‘int main(int, char**)’:
+/home/davincic2/catkin_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/qlacloserelays.cpp:47:40: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (i = 0; i < Port.GetNumOfNodes(); i++) {
+                                        ^
+/home/davincic2/catkin_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/qlatest.cpp:576:6: warning: unused parameter ‘curLine’ [-Wunused-parameter]
+ bool TestEthernet(int curLine, AmpIO &Board, FirewirePort &Port, std::ofstream &logFile)
+      ^
+/home/davincic2/catkin_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/qlatest.cpp:576:6: warning: unused parameter ‘Port’ [-Wunused-parameter]
+/home/davincic2/catkin_ws/src/cisst-saw/sawRobotIO1394/components/code/osaRobot1394.cpp:1067:6: warning: unused parameter ‘bits’ [-Wunused-parameter]
+ void osaRobot1394::EncoderBitsToVelocity(const vctIntVec & bits, vctDoubleVec & vel) const
+      ^
+/home/davincic2/catkin_ws/src/cisst-saw/sawRobotIO1394/components/code/osaXML1394.cpp: In function ‘bool sawRobotIO1394::osaXML1394ConfigureRobot(cmnXMLPath&, int, sawRobotIO1394::osaRobot1394Configuration&)’:
+/home/davincic2/catkin_ws/src/cisst-saw/sawRobotIO1394/components/code/osaXML1394.cpp:273:70: warning: ‘unitPosConversion’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+             actuator.Pot.VoltageToPositionOffset *= unitPosConversion; // -------------------------------------------- adeguet1, make sure these are degrees
+                                                                      ^

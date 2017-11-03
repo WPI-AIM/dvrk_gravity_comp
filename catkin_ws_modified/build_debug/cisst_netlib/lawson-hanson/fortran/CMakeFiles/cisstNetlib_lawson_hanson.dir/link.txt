@@ -1,0 +1,2 @@
+/usr/bin/ar cr libcisstNetlib_lawson_hanson.a  CMakeFiles/cisstNetlib_lawson_hanson.dir/diff.f.o CMakeFiles/cisstNetlib_lawson_hanson.dir/g1.f.o CMakeFiles/cisstNetlib_lawson_hanson.dir/h12.f.o CMakeFiles/cisstNetlib_lawson_hanson.dir/hfti.f.o CMakeFiles/cisstNetlib_lawson_hanson.dir/ldp.f.o CMakeFiles/cisstNetlib_lawson_hanson.dir/nnls.f.o CMakeFiles/cisstNetlib_lawson_hanson.dir/qrbd.f.o CMakeFiles/cisstNetlib_lawson_hanson.dir/svdrs.f.o
+/usr/bin/ranlib libcisstNetlib_lawson_hanson.a

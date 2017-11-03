@@ -1,0 +1,14 @@
+<package>
+  <name>cisst_netlib</name>
+  <version>3.0.0</version>
+  <description>
+  This package provides a binary version of miscellaneous numerical routines found on netlib.org
+  </description>
+  <maintainer email="anton.deguet@jhu.edu">Anton Deguet</maintainer>
+  <license>cisst</license>
+  <url>https://github.com/jhu-cisst/cisstNetlib</url>
+
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+</package>

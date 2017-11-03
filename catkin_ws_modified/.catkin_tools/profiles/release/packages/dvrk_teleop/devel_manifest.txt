@@ -1,0 +1,6 @@
+dvrk-ros/deprecated/dvrk_teleop
+/home/davincic2/catkin_ws/devel_release/.private/dvrk_teleop/share/dvrk_teleop/cmake/dvrk_teleopConfig-version.cmake /home/davincic2/catkin_ws/devel_release/share/dvrk_teleop/cmake/dvrk_teleopConfig-version.cmake
+/home/davincic2/catkin_ws/devel_release/.private/dvrk_teleop/share/dvrk_teleop/cmake/dvrk_teleopConfig.cmake /home/davincic2/catkin_ws/devel_release/share/dvrk_teleop/cmake/dvrk_teleopConfig.cmake
+/home/davincic2/catkin_ws/devel_release/.private/dvrk_teleop/lib/pkgconfig/dvrk_teleop.pc /home/davincic2/catkin_ws/devel_release/lib/pkgconfig/dvrk_teleop.pc
+/home/davincic2/catkin_ws/devel_release/.private/dvrk_teleop/lib/dvrk_teleop/dvrk_teleop /home/davincic2/catkin_ws/devel_release/lib/dvrk_teleop/dvrk_teleop
+/home/davincic2/catkin_ws/devel_release/.private/dvrk_teleop/lib/dvrk_teleop/dvrk_teleop_gui /home/davincic2/catkin_ws/devel_release/lib/dvrk_teleop/dvrk_teleop_gui

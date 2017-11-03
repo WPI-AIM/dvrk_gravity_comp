@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/davincic2/catkin_ws/install_debug/setup.sh

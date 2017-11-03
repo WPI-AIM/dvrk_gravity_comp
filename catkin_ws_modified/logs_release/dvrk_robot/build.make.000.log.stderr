@@ -1,0 +1,3 @@
+/home/davincic2/catkin_ws/src/dvrk-ros/dvrk_robot/src/dvrk_full_ros.cpp:53:6: warning: unused parameter ‘sig’ [-Wunused-parameter]
+ void mySigintHandler(int sig)
+      ^

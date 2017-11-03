@@ -1,0 +1,3 @@
+repository='external project URL'
+module='http://www.netlib.org/lapack/lapack-3.5.0.tgz'
+tag='MD5=b1d3e3e425b2e44a06760ff173104bdf'

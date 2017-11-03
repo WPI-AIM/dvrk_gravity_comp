@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+b7a4a9d64d00fef7f93fb5b90cd68668 code/Qt/CMakeFiles/sawControllersQt_automoc

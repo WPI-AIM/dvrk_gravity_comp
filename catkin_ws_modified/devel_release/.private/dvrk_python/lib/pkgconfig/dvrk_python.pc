@@ -1,0 +1,8 @@
+prefix=/home/davincic2/catkin_ws/devel_release/.private/dvrk_python
+
+Name: dvrk_python
+Description: Description of dvrk_python
+Version: 1.4.0
+Cflags: 
+Libs: -L/home/davincic2/catkin_ws/devel_release/.private/dvrk_python/lib 
+Requires: rospy

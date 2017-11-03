@@ -1,0 +1,8 @@
+prefix=/home/davincic2/dvrk_ws/devel
+
+Name: dvrk_robot
+Description: Description of dvrk_robot
+Version: 1.4.0
+Cflags: -I/home/davincic2/dvrk_ws/src/dvrk-ros/dvrk_robot/include -I/home/davincic2/dvrk_ws/devel/include
+Libs: -L/home/davincic2/dvrk_ws/devel/lib -ldvrk_utilities
+Requires: cisst_msgs cisst_ros_bridge geometry_msgs roscpp std_msgs

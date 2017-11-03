@@ -1,0 +1,8 @@
+prefix=/home/davincic2/catkin_ws/devel_release/.private/dvrk_robot
+
+Name: dvrk_robot
+Description: Description of dvrk_robot
+Version: 1.4.0
+Cflags: -I/home/davincic2/catkin_ws/src/dvrk-ros/dvrk_robot/include -I/home/davincic2/catkin_ws/devel_release/.private/dvrk_robot/include
+Libs: -L/home/davincic2/catkin_ws/devel_release/.private/dvrk_robot/lib -ldvrk_utilities
+Requires: cisst_msgs cisst_ros_bridge geometry_msgs roscpp std_msgs

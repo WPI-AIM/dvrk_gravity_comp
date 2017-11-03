@@ -1,0 +1,6 @@
+dvrk-ros/deprecated/rqt_dvrk
+/home/davincic2/catkin_ws/devel_release/.private/rqt_dvrk/share/rqt_dvrk/cmake/rqt_dvrkConfig-version.cmake /home/davincic2/catkin_ws/devel_release/share/rqt_dvrk/cmake/rqt_dvrkConfig-version.cmake
+/home/davincic2/catkin_ws/devel_release/.private/rqt_dvrk/share/rqt_dvrk/cmake/rqt_dvrkConfig.cmake /home/davincic2/catkin_ws/devel_release/share/rqt_dvrk/cmake/rqt_dvrkConfig.cmake
+/home/davincic2/catkin_ws/devel_release/.private/rqt_dvrk/bin/rqt_dvrk /home/davincic2/catkin_ws/devel_release/bin/rqt_dvrk
+/home/davincic2/catkin_ws/devel_release/.private/rqt_dvrk/lib/pkgconfig/rqt_dvrk.pc /home/davincic2/catkin_ws/devel_release/lib/pkgconfig/rqt_dvrk.pc
+/home/davincic2/catkin_ws/devel_release/.private/rqt_dvrk/lib/python2.7/dist-packages/rqt_dvrk/__init__.py /home/davincic2/catkin_ws/devel_release/lib/python2.7/dist-packages/rqt_dvrk/__init__.py

@@ -1,0 +1,4 @@
+dvrk-ros/dvrk_model
+/home/davincic2/catkin_ws/devel_release/.private/dvrk_model/share/dvrk_model/cmake/dvrk_modelConfig.cmake /home/davincic2/catkin_ws/devel_release/share/dvrk_model/cmake/dvrk_modelConfig.cmake
+/home/davincic2/catkin_ws/devel_release/.private/dvrk_model/share/dvrk_model/cmake/dvrk_modelConfig-version.cmake /home/davincic2/catkin_ws/devel_release/share/dvrk_model/cmake/dvrk_modelConfig-version.cmake
+/home/davincic2/catkin_ws/devel_release/.private/dvrk_model/lib/pkgconfig/dvrk_model.pc /home/davincic2/catkin_ws/devel_release/lib/pkgconfig/dvrk_model.pc

@@ -1,0 +1,3 @@
+/home/davincic2/catkin_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitConsole.cpp:1548:6: warning: unused parameter ‘button’ [-Wunused-parameter]
+ void mtsIntuitiveResearchKitConsole::ECMManipClutchEventHandler(const prmEventButton & button)
+      ^

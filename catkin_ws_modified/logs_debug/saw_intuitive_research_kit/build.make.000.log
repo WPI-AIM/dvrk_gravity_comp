@@ -1,0 +1,54 @@
+[  7%] [  7%] [35m[1mScanning dependencies of target sawIntuitiveResearchKitQt_automoc
+[0m[34m[1mcisstDataGenerator for mtsIntuitiveResearchKitArmTypes
+[34m[1mcisstDataGenerator for mtsVFDataFollow
+[0m[0m[ 11%] cisstDataGenerator: generating /home/davincic2/catkin_ws/build_debug/cisst/include/sawIntuitiveResearchKit/mtsVFDataFollow.h and /home/davincic2/catkin_ws/build_debug/saw_intuitive_research_kit/mtsVFDataFollow_cdg.cpp from /home/davincic2/catkin_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsVFDataFollow.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/davincic2/catkin_ws/build_debug/cisst/include/sawIntuitiveResearchKit/mtsVFDataFollow.h"
+cisstDataGenerator: generating /home/davincic2/catkin_ws/build_debug/cisst/include/sawIntuitiveResearchKit/mtsIntuitiveResearchKitArmTypes.h and /home/davincic2/catkin_ws/build_debug/saw_intuitive_research_kit/mtsIntuitiveResearchKitArmTypes_cdg.cpp from /home/davincic2/catkin_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitArmTypes.cdg
+cisstDataGenerator: generating code file "/home/davincic2/catkin_ws/build_debug/saw_intuitive_research_kit/mtsVFDataFollow_cdg.cpp"
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/davincic2/catkin_ws/build_debug/cisst/include/sawIntuitiveResearchKit/mtsIntuitiveResearchKitArmTypes.h"
+cisstDataGenerator: generating code file "/home/davincic2/catkin_ws/build_debug/saw_intuitive_research_kit/mtsIntuitiveResearchKitArmTypes_cdg.cpp"
+[34m[1mAutomoc for target sawIntuitiveResearchKitQt
+[0m[35m[1mScanning dependencies of target sawIntuitiveResearchKit
+[34m[1mGenerating moc_mtsIntuitiveResearchKitArmQtWidget.cpp
+[0m[ 14%] [ 18%] [ 22%] [ 25%] [ 29%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsStateMachine.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitArm.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitECM.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitPSM.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitMTM.cpp.o
+[0m[0m[34m[1mGenerating moc_mtsIntuitiveResearchKitConsoleQtWidget.cpp
+[0m[34m[1mGenerating moc_mtsIntuitiveResearchKitSUJQtWidget.cpp
+[ 33%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitSUJ.cpp.o
+[0m[0m[34m[1mGenerating moc_mtsTeleOperationECMQtWidget.cpp
+[ 37%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitOptimizer.cpp.o
+[0m[ 40%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsTeleOperationPSM.cpp.o
+[0m[0m[34m[1mGenerating moc_mtsTeleOperationPSMQtWidget.cpp
+[0m[ 40%] Built target sawIntuitiveResearchKitQt_automoc
+[ 44%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsTeleOperationECM.cpp.o
+/home/davincic2/catkin_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitOptimizer.cpp:81:6: warning: unused parameter ‘desiredKinName’ [-Wunused-parameter]
+ void mtsIntuitiveResearchKitOptimizer::InitializePlaneVF(size_t rows,
+      ^
+[0m[ 48%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitConsole.cpp.o
+[0m[ 51%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitUDPStreamer.cpp.o
+[0m[ 55%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsVFFollow.cpp.o
+[0m[ 59%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsVFFollowJacobian.cpp.o
+/home/davincic2/catkin_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitConsole.cpp:1548:6: warning: unused parameter ‘button’ [-Wunused-parameter]
+ void mtsIntuitiveResearchKitConsole::ECMManipClutchEventHandler(const prmEventButton & button)
+      ^
+[0m[ 62%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/mtsIntuitiveResearchKitArmTypes_cdg.cpp.o
+[0m[ 66%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/mtsVFDataFollow_cdg.cpp.o
+[0m[ 70%] [34m[1mGenerating qrc_logo.cpp
+[0m[35m[1mScanning dependencies of target sawIntuitiveResearchKitQt
+[0m[ 74%] [ 77%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsIntuitiveResearchKitConsoleQt.cpp.o
+[0m[32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsIntuitiveResearchKitConsoleQtWidget.cpp.o
+[0m[ 81%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsTeleOperationPSMQtWidget.cpp.o
+[0m[ 85%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsTeleOperationECMQtWidget.cpp.o
+[0m[ 88%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsIntuitiveResearchKitArmQtWidget.cpp.o
+[0m[ 92%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsIntuitiveResearchKitSUJQtWidget.cpp.o
+[0m[ 96%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/qrc_logo.cpp.o
+[0m[31m[1mLinking CXX shared library lib/libsawIntuitiveResearchKit.so
+[0m[100%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/sawIntuitiveResearchKitQt_automoc.cpp.o
+[0m[100%] Built target sawIntuitiveResearchKit
+[31m[1mLinking CXX shared library ../../lib/libsawIntuitiveResearchKitQt.so
+[0m[100%] Built target sawIntuitiveResearchKitQt

@@ -1,0 +1,5 @@
+cisst-saw/sawOptoforceSensor/ros
+/home/davincic2/catkin_ws/devel_debug/.private/optoforce_ros/share/optoforce_ros/cmake/optoforce_rosConfig.cmake /home/davincic2/catkin_ws/devel_debug/share/optoforce_ros/cmake/optoforce_rosConfig.cmake
+/home/davincic2/catkin_ws/devel_debug/.private/optoforce_ros/share/optoforce_ros/cmake/optoforce_rosConfig-version.cmake /home/davincic2/catkin_ws/devel_debug/share/optoforce_ros/cmake/optoforce_rosConfig-version.cmake
+/home/davincic2/catkin_ws/devel_debug/.private/optoforce_ros/lib/pkgconfig/optoforce_ros.pc /home/davincic2/catkin_ws/devel_debug/lib/pkgconfig/optoforce_ros.pc
+/home/davincic2/catkin_ws/devel_debug/.private/optoforce_ros/lib/optoforce_ros/optoforce_json /home/davincic2/catkin_ws/devel_debug/lib/optoforce_ros/optoforce_json

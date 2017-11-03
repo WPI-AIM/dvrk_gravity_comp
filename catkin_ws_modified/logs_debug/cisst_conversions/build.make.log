@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target cisst_conversions
+[0m[100%] [32mBuilding CXX object CMakeFiles/cisst_conversions.dir/src/cisst_tf.cpp.o
+[0m[31m[1mLinking CXX shared library /home/davincic2/catkin_ws/devel_debug/.private/cisst_conversions/lib/libcisst_conversions.so
+[0m[100%] Built target cisst_conversions

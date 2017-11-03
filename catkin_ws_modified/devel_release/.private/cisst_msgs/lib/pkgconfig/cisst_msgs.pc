@@ -1,0 +1,8 @@
+prefix=/home/davincic2/catkin_ws/devel_release/.private/cisst_msgs
+
+Name: cisst_msgs
+Description: Description of cisst_msgs
+Version: 1.2.0
+Cflags: -I/home/davincic2/catkin_ws/devel_release/.private/cisst_msgs/include
+Libs: -L/home/davincic2/catkin_ws/devel_release/.private/cisst_msgs/lib 
+Requires: message_runtime

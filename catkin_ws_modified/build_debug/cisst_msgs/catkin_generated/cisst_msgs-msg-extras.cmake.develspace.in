@@ -1,0 +1,2 @@
+set(cisst_msgs_MESSAGE_FILES "/home/davincic2/catkin_ws/src/cisst-saw/cisst-ros/cisst_msgs/msg/vctDoubleVec.msg;/home/davincic2/catkin_ws/src/cisst-saw/cisst-ros/cisst_msgs/msg/prmFixtureGainCartesianSet.msg;/home/davincic2/catkin_ws/src/cisst-saw/cisst-ros/cisst_msgs/msg/BoolStamped.msg;/home/davincic2/catkin_ws/src/cisst-saw/cisst-ros/cisst_msgs/msg/StringStamped.msg")
+set(cisst_msgs_SERVICE_FILES "")

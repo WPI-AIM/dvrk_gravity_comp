@@ -1,0 +1,31 @@
+/home/davincic2/catkin_ws/src/cisst-saw/sawConstraintController/components/code/mtsVFSensorCompliance.cpp:26:6: warning: unused parameter ‘mode’ [-Wunused-parameter]
+ void mtsVFSensorCompliance::FillInTableauRefs(const CONTROLLERMODE mode, const double TickTime)
+      ^
+/home/davincic2/catkin_ws/src/cisst-saw/sawConstraintController/components/code/mtsVFSensorCompliance.cpp:26:6: warning: unused parameter ‘TickTime’ [-Wunused-parameter]
+/home/davincic2/catkin_ws/src/cisst-saw/sawConstraintController/components/code/mtsVFController.cpp:76:6: warning: unused parameter ‘RCMPoint’ [-Wunused-parameter]
+ void mtsVFController::UpdateRCMVF(const size_t rows, const std::string vfName, const std::string curKinName, const vct3 & RCMPoint, const vctDoubleMat & JacClosest, const vctFrm3 & TipFrame)
+      ^
+/home/davincic2/catkin_ws/src/cisst-saw/sawConstraintController/components/code/mtsVFPlane.cpp: In member function ‘virtual void mtsVFPlane::FillInTableauRefs(mtsVFBase::CONTROLLERMODE, double)’:
+/home/davincic2/catkin_ws/src/cisst-saw/sawConstraintController/components/code/mtsVFPlane.cpp:82:42: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < Jacobian3x6.rows(); ++i)
+                                          ^
+/home/davincic2/catkin_ws/src/cisst-saw/sawConstraintController/components/code/mtsVFPlane.cpp:83:46: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+         for (int j = 0; j < Jacobian3x6.cols(); ++j)
+                                              ^
+/home/davincic2/catkin_ws/src/cisst-saw/sawConstraintController/components/code/mtsVFPlane.cpp: At global scope:
+/home/davincic2/catkin_ws/src/cisst-saw/sawConstraintController/components/code/mtsVFPlane.cpp:26:6: warning: unused parameter ‘mode’ [-Wunused-parameter]
+ void mtsVFPlane::FillInTableauRefs(const CONTROLLERMODE mode, const double TickTime)
+      ^
+/home/davincic2/catkin_ws/src/cisst-saw/sawConstraintController/components/code/mtsVFPlane.cpp:26:6: warning: unused parameter ‘TickTime’ [-Wunused-parameter]
+/home/davincic2/catkin_ws/src/cisst-saw/sawConstraintController/components/code/mtsVFController.cpp: In member function ‘bool mtsVFController::ActivateVF(const string&)’:
+/home/davincic2/catkin_ws/src/cisst-saw/sawConstraintController/components/code/mtsVFController.cpp:391:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+/home/davincic2/catkin_ws/src/cisst-saw/sawConstraintController/components/code/mtsVFAbsoluteJointLimits.cpp:26:6: warning: unused parameter ‘mode’ [-Wunused-parameter]
+ void mtsVFAbsoluteJointLimits::FillInTableauRefs(const CONTROLLERMODE mode, const double TickTime)
+      ^
+/home/davincic2/catkin_ws/src/cisst-saw/sawConstraintController/components/code/mtsVFAbsoluteJointLimits.cpp:26:6: warning: unused parameter ‘TickTime’ [-Wunused-parameter]
+/home/davincic2/catkin_ws/src/cisst-saw/sawConstraintController/components/code/mtsVF_RCM.cpp:5:6: warning: unused parameter ‘mode’ [-Wunused-parameter]
+ void mtsVF_RCM::FillInTableauRefs(const CONTROLLERMODE mode, const double TickTime)
+      ^
+/home/davincic2/catkin_ws/src/cisst-saw/sawConstraintController/components/code/mtsVF_RCM.cpp:5:6: warning: unused parameter ‘TickTime’ [-Wunused-parameter]

@@ -1,0 +1,20 @@
+[ 18%] Built target cisstNetlib_Fortran
+[ 74%] Built target cisstNetlib_hanson_haskell
+[ 93%] Built target cisstNetlib_lawson_hanson
+[100%] Built target cisstNetlib
+[36mInstall the project...
+[0m-- Install configuration: "Release"
+-- Up-to-date: /home/davincic2/catkin_ws/devel_release/include/cisstNetlib.h
+-- Up-to-date: /home/davincic2/catkin_ws/devel_release/include/cisstNetlib/cisstNetlib-types.h
+-- Up-to-date: /home/davincic2/catkin_ws/devel_release/include/cisstNetlib/cisstNetlib-lapack.h
+-- Up-to-date: /home/davincic2/catkin_ws/devel_release/include/cisstNetlib/cisstNetlib-hanson-haskell.h
+-- Up-to-date: /home/davincic2/catkin_ws/devel_release/include/cisstNetlib/cisstNetlib-lawson-hanson.h
+-- Up-to-date: /home/davincic2/catkin_ws/devel_release/lib/libcisstNetlib_lapack.a
+-- Up-to-date: /home/davincic2/catkin_ws/devel_release/lib/libcisstNetlib_blas.a
+-- Up-to-date: /home/davincic2/catkin_ws/devel_release/lib/libcisstNetlib_gfortran.so
+-- Up-to-date: /home/davincic2/catkin_ws/devel_release/lib/libcisstNetlib_gcc.a
+-- Up-to-date: /home/davincic2/catkin_ws/devel_release/lib/libcisstNetlib_quadmath.a
+-- Up-to-date: /home/davincic2/catkin_ws/devel_release/cmake/CisstNetlibConfig.cmake
+-- Up-to-date: /home/davincic2/catkin_ws/devel_release/lib/libcisstNetlib_hanson_haskell.a
+-- Up-to-date: /home/davincic2/catkin_ws/devel_release/lib/libcisstNetlib_lawson_hanson.a
+-- Up-to-date: /home/davincic2/catkin_ws/devel_release/lib/libcisstNetlib.a

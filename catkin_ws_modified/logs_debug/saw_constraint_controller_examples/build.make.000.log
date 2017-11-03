@@ -1,0 +1,14 @@
+[35m[1mScanning dependencies of target sawConstraintControllerExampleBasicSetup
+[35m[1mScanning dependencies of target sawConstraintControllerExampleSimpleCommunication
+[0m[0m[ 25%] [ 25%] [32mBuilding CXX object BasicSetup/CMakeFiles/sawConstraintControllerExampleBasicSetup.dir/mtsRobotTask.cpp.o
+[32mBuilding CXX object BasicSetup/CMakeFiles/sawConstraintControllerExampleBasicSetup.dir/main.cpp.o
+[0m[0m[ 37%] [ 50%] [32mBuilding CXX object SimpleCommunication/CMakeFiles/sawConstraintControllerExampleSimpleCommunication.dir/mtsSimpleVFController.cpp.o
+[32mBuilding CXX object SimpleCommunication/CMakeFiles/sawConstraintControllerExampleSimpleCommunication.dir/main.cpp.o
+[0m[0m[ 62%] [32mBuilding CXX object SimpleCommunication/CMakeFiles/sawConstraintControllerExampleSimpleCommunication.dir/mtsRobotTask.cpp.o
+[0m[ 75%] [32mBuilding CXX object SimpleCommunication/CMakeFiles/sawConstraintControllerExampleSimpleCommunication.dir/mtsVFControllerTask.cpp.o
+[0m[ 87%] [32mBuilding CXX object SimpleCommunication/CMakeFiles/sawConstraintControllerExampleSimpleCommunication.dir/mtsVFSenderTask.cpp.o
+[0m[31m[1mLinking CXX executable sawConstraintControllerExampleBasicSetup
+[0m[ 87%] Built target sawConstraintControllerExampleBasicSetup
+[100%] [32mBuilding CXX object SimpleCommunication/CMakeFiles/sawConstraintControllerExampleSimpleCommunication.dir/prmSimpleRobotKinematicsState.cpp.o
+[0m[31m[1mLinking CXX executable sawConstraintControllerExampleSimpleCommunication
+[0m[100%] Built target sawConstraintControllerExampleSimpleCommunication

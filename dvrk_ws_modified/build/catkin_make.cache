@@ -1,0 +1,2 @@
+dvrk-ros/deprecated/dvrk_kinematics:dvrk-ros/deprecated/dvrk_teleop:dvrk-ros/deprecated/rqt_dvrk:dvrk-ros/dvrk_model:dvrk-ros/dvrk_python:dvrk-ros/dvrk_robot
+-DCATKIN_DEVEL_PREFIX=/home/davincic2/dvrk_ws/devel -DCMAKE_INSTALL_PREFIX=/home/davincic2/dvrk_ws/install -G Unix Makefiles

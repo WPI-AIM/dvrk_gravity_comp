@@ -1,0 +1,8 @@
+[  3%] [34m[1mAutomoc for target sawIntuitiveResearchKitQt
+[0m[35m[1mScanning dependencies of target sawIntuitiveResearchKit
+[  3%] Built target sawIntuitiveResearchKitQt_automoc
+[0m[ 11%] [ 11%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitMTM.cpp.o
+[32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitArm.cpp.o
+[0m[0m[ 44%] Built target sawIntuitiveResearchKitQt
+[31m[1mLinking CXX shared library lib/libsawIntuitiveResearchKit.so
+[0m[100%] Built target sawIntuitiveResearchKit

@@ -1,0 +1,3 @@
+Symlinking /home/davincic2/catkin_ws/devel_release/share/dvrk_model/cmake/dvrk_modelConfig.cmake
+Symlinking /home/davincic2/catkin_ws/devel_release/share/dvrk_model/cmake/dvrk_modelConfig-version.cmake
+Symlinking /home/davincic2/catkin_ws/devel_release/lib/pkgconfig/dvrk_model.pc

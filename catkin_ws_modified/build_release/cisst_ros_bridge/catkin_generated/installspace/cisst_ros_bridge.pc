@@ -1,0 +1,8 @@
+prefix=/home/davincic2/catkin_ws/install_release
+
+Name: cisst_ros_bridge
+Description: Description of cisst_ros_bridge
+Version: 1.2.0
+Cflags: -I/home/davincic2/catkin_ws/install_release/include
+Libs: -L/home/davincic2/catkin_ws/install_release/lib -lcisst_ros_bridge
+Requires: geometry_msgs roscpp rospy sensor_msgs std_msgs cisst_msgs

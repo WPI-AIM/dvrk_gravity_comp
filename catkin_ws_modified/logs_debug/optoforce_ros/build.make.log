@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target optoforce_json
+[0m[100%] [32mBuilding CXX object CMakeFiles/optoforce_json.dir/src/optoforce_json.cpp.o
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_debug/.private/optoforce_ros/lib/optoforce_ros/optoforce_json
+[0m[100%] Built target optoforce_json

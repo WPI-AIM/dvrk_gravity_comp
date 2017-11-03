@@ -1,0 +1,14 @@
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target _cisst_msgs_generate_messages_check_deps_vctDoubleVec
+[  0%] [  0%] [  0%] [  0%] Built target std_msgs_generate_messages_py
+Built target _cisst_msgs_generate_messages_check_deps_BoolStamped
+Built target _cisst_msgs_generate_messages_check_deps_prmFixtureGainCartesianSet
+Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target _cisst_msgs_generate_messages_check_deps_StringStamped
+[  0%] Built target std_msgs_generate_messages_lisp
+[ 38%] [ 69%] Built target cisst_msgs_generate_messages_py
+Built target cisst_msgs_generate_messages_cpp
+[100%] Built target cisst_msgs_generate_messages_lisp
+[100%] Built target cisst_msgs_generate_messages

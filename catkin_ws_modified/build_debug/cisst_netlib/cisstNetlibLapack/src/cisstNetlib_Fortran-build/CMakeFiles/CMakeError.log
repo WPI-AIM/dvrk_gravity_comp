@@ -1,0 +1,52 @@
+Fortran EXT_ETIME does not exist. 
+ Change Dir: /home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL
+
+Run Build Command:/usr/bin/make "secondtst_EXT_ETIME"
+make[3]: Entering directory `/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL'
+make[4]: Entering directory `/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL'
+make[5]: Entering directory `/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL'
+make[6]: Entering directory `/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL'
+Scanning dependencies of target secondtst_EXT_ETIME
+make[6]: Leaving directory `/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL'
+make[6]: Entering directory `/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL'
+[ 50%] Building Fortran object CMakeFiles/secondtst_EXT_ETIME.dir/second_EXT_ETIME.f.o
+[100%] Building Fortran object CMakeFiles/secondtst_EXT_ETIME.dir/secondtst.f.o
+Linking Fortran executable secondtst_EXT_ETIME
+CMakeFiles/secondtst_EXT_ETIME.dir/second_EXT_ETIME.f.o: In function `second_':
+second_EXT_ETIME.f:(.text+0x15): undefined reference to `etime_'
+collect2: error: ld returned 1 exit status
+make[6]: Leaving directory `/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL'
+make[6]: *** [secondtst_EXT_ETIME] Error 1
+make[5]: Leaving directory `/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL'
+make[5]: *** [CMakeFiles/secondtst_EXT_ETIME.dir/all] Error 2
+make[4]: Leaving directory `/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL'
+make[4]: *** [CMakeFiles/secondtst_EXT_ETIME.dir/rule] Error 2
+make[3]: Leaving directory `/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL'
+make[3]: *** [secondtst_EXT_ETIME] Error 2
+ 
+Fortran EXT_ETIME_ does not exist. 
+ Change Dir: /home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL
+
+Run Build Command:/usr/bin/make "secondtst_EXT_ETIME_"
+make[3]: Entering directory `/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL'
+make[4]: Entering directory `/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL'
+make[5]: Entering directory `/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL'
+make[6]: Entering directory `/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL'
+Scanning dependencies of target secondtst_EXT_ETIME_
+make[6]: Leaving directory `/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL'
+make[6]: Entering directory `/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL'
+[ 50%] Building Fortran object CMakeFiles/secondtst_EXT_ETIME_.dir/second_EXT_ETIME_.f.o
+[100%] Building Fortran object CMakeFiles/secondtst_EXT_ETIME_.dir/secondtst.f.o
+Linking Fortran executable secondtst_EXT_ETIME_
+CMakeFiles/secondtst_EXT_ETIME_.dir/second_EXT_ETIME_.f.o: In function `second_':
+second_EXT_ETIME_.f:(.text+0x15): undefined reference to `etime__'
+collect2: error: ld returned 1 exit status
+make[6]: *** [secondtst_EXT_ETIME_] Error 1
+make[6]: Leaving directory `/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL'
+make[5]: Leaving directory `/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL'
+make[5]: *** [CMakeFiles/secondtst_EXT_ETIME_.dir/all] Error 2
+make[4]: Leaving directory `/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL'
+make[4]: *** [CMakeFiles/secondtst_EXT_ETIME_.dir/rule] Error 2
+make[3]: *** [secondtst_EXT_ETIME_] Error 2
+make[3]: Leaving directory `/home/davincic2/catkin_ws/build_debug/cisst_netlib/cisstNetlibLapack/src/cisstNetlib_Fortran-build/INSTALL'
+ 

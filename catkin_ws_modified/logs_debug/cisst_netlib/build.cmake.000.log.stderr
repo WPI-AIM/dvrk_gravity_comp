@@ -1,0 +1,3 @@
+Using fortran runtime library: /usr/lib/x86_64-linux-gnu/libgfortran.so.3.0.0
+Using gcc runtime library: /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc.a
+Using quadmath library: /usr/lib/gcc/x86_64-linux-gnu/4.8/libquadmath.a

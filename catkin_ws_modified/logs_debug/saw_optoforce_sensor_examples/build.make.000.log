@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target OptoforceExample
+[0m[100%] [32mBuilding CXX object CMakeFiles/OptoforceExample.dir/main.cpp.o
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_debug/.private/saw_optoforce_sensor_examples/bin/OptoforceExample
+[0m[100%] Built target OptoforceExample

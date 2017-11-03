@@ -1,0 +1,28 @@
+Information: all libraries and settings have been found for /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstMultiTask/applications/cisstComponentManager, it is possible cisst-config.cmake has not been found yet,  make sure the CMake configuration is complete first.
+Information: all libraries and settings have been found for /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstMultiTask/applications/cisstLogger, it is possible cisst-config.cmake has not been found yet,  make sure the CMake configuration is complete first.
+Information: code in /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstMultiTask/applications/cisstIREComponent will not be compiled, it requires cisstInteractive.  You have to change your cisst configuration if you need these features.
+Information: code in /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstRobot/applications/cisstRandomJoints will not be compiled, it requires cisstCommon;cisstVector;cisstOSAbstraction;cisstRobot;cisstNumerical
+Information: code in /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstRobot/applications/cisstForwardKinematics will not be compiled, it requires cisstCommon;cisstVector;cisstOSAbstraction;cisstRobot;cisstNumerical
+Information: code in /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstRobot/applications/cisstKinematicsIdentification will not be compiled, it requires cisstCommon;cisstVector;cisstOSAbstraction;cisstRobot;cisstNumerical
+Information: code in /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstRobot/applications/cisstRobotSensorCalibration will not be compiled, it requires cisstCommon;cisstVector;cisstOSAbstraction;cisstRobot;cisstNumerical
+OpenCV Version from 2.2.0. onwards.
+Information: code in /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstStereoVision/applications/cisstCameraViewer will not be compiled, it requires cisstCommon;cisstVector;cisstOSAbstraction;cisstMultiTask;cisstStereoVision
+Information: code in /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstStereoVision/applications/cisstVideoPlayer will not be compiled, it requires cisstCommon;cisstVector;cisstOSAbstraction;cisstMultiTask;cisstStereoVision
+Information: code in /home/davincic2/catkin_ws/src/cisst-saw/cisst/cisstStereoVision/applications/cisstVideoConverter will not be compiled, it requires cisstCommon;cisstVector;cisstOSAbstraction;cisstMultiTask;cisstStereoVision
+[33m[1mCMake Warning[0m at /home/davincic2/catkin_ws/src/cisst-saw/cisst/share/CMakeLists.txt:18 (find_package):
+  By not providing "Findcisst.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "cisst", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "cisst" with any of
+  the following names:
+
+    cisstConfig.cmake
+    cisst-config.cmake
+
+  Add the installation prefix of "cisst" to CMAKE_PREFIX_PATH or set
+  "cisst_DIR" to a directory containing one of the above files.  If "cisst"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+

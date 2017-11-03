@@ -1,0 +1,5 @@
+Symlinking /home/davincic2/catkin_ws/devel_release/share/dvrk_kinematics/cmake/dvrk_kinematicsConfig.cmake
+Symlinking /home/davincic2/catkin_ws/devel_release/share/dvrk_kinematics/cmake/dvrk_kinematicsConfig-version.cmake
+Symlinking /home/davincic2/catkin_ws/devel_release/lib/dvrk_kinematics/dvrk_mtm_logic
+Symlinking /home/davincic2/catkin_ws/devel_release/lib/dvrk_kinematics/dvrk_psm_logic
+Symlinking /home/davincic2/catkin_ws/devel_release/lib/pkgconfig/dvrk_kinematics.pc

@@ -1,0 +1,20 @@
+[ 18%] Built target cisstNetlib_Fortran
+[ 74%] Built target cisstNetlib_hanson_haskell
+[ 93%] Built target cisstNetlib_lawson_hanson
+[100%] Built target cisstNetlib
+[36mInstall the project...
+[0m-- Install configuration: "Debug"
+-- Installing: /home/davincic2/catkin_ws/devel_debug/include/cisstNetlib.h
+-- Installing: /home/davincic2/catkin_ws/devel_debug/include/cisstNetlib/cisstNetlib-types.h
+-- Installing: /home/davincic2/catkin_ws/devel_debug/include/cisstNetlib/cisstNetlib-lapack.h
+-- Installing: /home/davincic2/catkin_ws/devel_debug/include/cisstNetlib/cisstNetlib-hanson-haskell.h
+-- Installing: /home/davincic2/catkin_ws/devel_debug/include/cisstNetlib/cisstNetlib-lawson-hanson.h
+-- Installing: /home/davincic2/catkin_ws/devel_debug/lib/libcisstNetlib_lapack.a
+-- Installing: /home/davincic2/catkin_ws/devel_debug/lib/libcisstNetlib_blas.a
+-- Installing: /home/davincic2/catkin_ws/devel_debug/lib/libcisstNetlib_gfortran.so
+-- Installing: /home/davincic2/catkin_ws/devel_debug/lib/libcisstNetlib_gcc.a
+-- Installing: /home/davincic2/catkin_ws/devel_debug/lib/libcisstNetlib_quadmath.a
+-- Installing: /home/davincic2/catkin_ws/devel_debug/cmake/CisstNetlibConfig.cmake
+-- Installing: /home/davincic2/catkin_ws/devel_debug/lib/libcisstNetlib_hanson_haskell.a
+-- Installing: /home/davincic2/catkin_ws/devel_debug/lib/libcisstNetlib_lawson_hanson.a
+-- Installing: /home/davincic2/catkin_ws/devel_debug/lib/libcisstNetlib.a

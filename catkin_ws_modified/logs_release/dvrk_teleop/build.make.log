@@ -1,0 +1,18 @@
+[35m[1mScanning dependencies of target dvrk_teleop_gui_automoc
+[35m[1mScanning dependencies of target dvrk_teleop
+[0m[ 16%] [34m[1mAutomoc for target dvrk_teleop_gui
+[0m[34m[1mGenerating moc_dvrkTeleopQWidget.cpp
+[0m[ 33%] [ 50%] [32mBuilding CXX object CMakeFiles/dvrk_teleop.dir/src/teleop.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/dvrk_teleop.dir/src/mtsTeleop.cpp.o
+[0m[0m[ 50%] Built target dvrk_teleop_gui_automoc
+[35m[1mScanning dependencies of target dvrk_teleop_gui
+[0m[ 66%] [ 83%] [100%] [32mBuilding CXX object CMakeFiles/dvrk_teleop_gui.dir/src/dvrkTeleopQWidget.cpp.o
+[32mBuilding CXX object CMakeFiles/dvrk_teleop_gui.dir/dvrk_teleop_gui_automoc.cpp.o
+[0m[0m[32mBuilding CXX object CMakeFiles/dvrk_teleop_gui.dir/src/teleopGUI.cpp.o
+[0m[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_release/.private/dvrk_teleop/lib/dvrk_teleop/dvrk_teleop
+[0m[100%] Built target dvrk_teleop
+/home/davincic2/catkin_ws/src/dvrk-ros/deprecated/dvrk_teleop/src/dvrkTeleopQWidget.cpp:16:1: warning: unused parameter ‘name’ [-Wunused-parameter]
+ dvrkTeleopQWidget::dvrkTeleopQWidget(const std::string &name, const double &period):
+ ^
+[31m[1mLinking CXX executable /home/davincic2/catkin_ws/devel_release/.private/dvrk_teleop/lib/dvrk_teleop/dvrk_teleop_gui
+[0m[100%] Built target dvrk_teleop_gui

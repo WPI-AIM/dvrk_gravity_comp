@@ -1,0 +1,6 @@
+devel_space: /home/davincic2/catkin_ws/devel_debug
+install: false
+install_space: /home/davincic2/catkin_ws/install_debug
+profile: debug
+source_space: /home/davincic2/catkin_ws/src
+workspace: /home/davincic2/catkin_ws

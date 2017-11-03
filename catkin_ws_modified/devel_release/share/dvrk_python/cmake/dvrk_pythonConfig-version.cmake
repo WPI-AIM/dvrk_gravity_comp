@@ -1,0 +1,1 @@
+/home/davincic2/catkin_ws/devel_release/.private/dvrk_python/share/dvrk_python/cmake/dvrk_pythonConfig-version.cmake

@@ -1,0 +1,8 @@
+prefix=/home/davincic2/catkin_ws/devel_release/.private/dvrk_config
+
+Name: dvrk_config
+Description: Description of dvrk_config
+Version: 1.0.3
+Cflags: 
+Libs: -L/home/davincic2/catkin_ws/devel_release/.private/dvrk_config/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/davincic2/catkin_ws/devel_release/.private/rqt_dvrk/share/rqt_dvrk/cmake/rqt_dvrkConfig.cmake
